@@ -1,0 +1,1120 @@
+DEALZ - Nền tảng du lịch tích hợp cung cấp giải pháp trọn gói cho chuyến đi
+I. GIỚI THIỆU TỔNG QUAN
+1. Đặt vấn đề
+Việt Nam có nhiều điểm đến để trải nghiệm và chụp ảnh: Bà Nà Hills, bán đảo Sơn Trà, phố cổ Hội An, Đà Lạt, Phú Quốc, Sa Pa, Hà Nội, Huế… Du khách, nhất là giới trẻ và khách quốc tế, thường gặp ba khó khăn cùng lúc:
+Không biết đi đâu, đi theo thứ tự nào. Thông tin lịch trình nằm rải rác trên mạng xã hội, blog, nhóm review; khó biết địa điểm nào đáng đi, đang có xu hướng gì, mùa nào đẹp.
+Không biết mặc gì cho phù hợp với bối cảnh, thời tiết và văn hóa địa phương (ví dụ trang phục khi vào đền chùa), trong khi mua mới một bộ đồ chỉ để mặc vài lần là lãng phí.
+Phải tự ghép nhiều dịch vụ rời rạc: chỗ ở, xe di chuyển, nhiếp ảnh gia, trang phục, mỗi nơi một kênh đặt, một cách thanh toán, một chính sách hủy.
+Thị trường cho thuê trang phục hiện nay phân tán. Thông tin nằm trên fanpage, Zalo, TikTok của từng shop nhỏ; khách khó so sánh giá, size, tình trạng còn trống; chính sách cọc, hủy mỗi nơi một kiểu nên dễ lo mất cọc. Du khách từ nơi khác đến và khách nước ngoài càng khó tìm được shop uy tín. Về phía shop và các đơn vị dịch vụ nhỏ, việc quản lý lịch bằng sổ tay hoặc tin nhắn dễ trùng lịch, sót đơn, và khó tiếp cận khách ngoài địa phương.
+Từ thực tế đó, nhóm đề xuất DealZ là nền tảng du lịch tích hợp cung cấp giải pháp trọn gói cho chuyến đi, gồm thuê đồ, lưu trú và tiện ích tại điểm đến. Khách chọn điểm đến và số ngày, nhận lộ trình theo ngày, các góc chụp, xu hướng đang được ưa chuộng; ngay trong từng điểm dừng, khách có thể thuê trang phục, đặt chỗ lưu trú, thuê xe máy, đặt nhiếp ảnh gia. Lộ trình thu hút người dùng; hoa hồng từ các sản phẩm và dịch vụ bán kèm là nguồn doanh thu duy trì hoạt động.
+2. Về doanh nghiệp
+2.1. Tên gọi
+Tên thương hiệu: DealZ (tên miền dealz.id.vn).
+Ý nghĩa: “Deal” là thỏa thuận có lợi cho cả hai phía: khách có đúng lộ trình, đúng đồ, đúng giá; đối tác có đúng khách, đúng lịch. Chữ “Z” gợi thế hệ Gen Z quen với việc tìm kiếm, đặt chỗ và mua sắm trực tuyến.
+Loại hình hiện tại: dự án khởi nghiệp thương mại điện tử ở giai đoạn thử nghiệm quy mô nhỏ, chưa đăng ký pháp nhân. Khi vận hành thật, nhóm sẽ đăng ký kinh doanh và ký hợp đồng hợp tác với từng đối tác.
+2.2. Lĩnh vực hoạt động
+DealZ hoạt động ở giao điểm của công nghệ du lịch (travel-tech) và thương mại dịch vụ du lịch, với trang phục cho thuê là sản phẩm đặc trưng giúp DealZ khác với các nền tảng đặt phòng, đặt tour thông thường. Địa bàn thí điểm là Đà Nẵng – Hội An, sau đó mở rộng ra các điểm đến khác trên cả nước (xem lộ trình ở Phần III).
+2.3. Ý tưởng kinh doanh
+DealZ không sở hữu trang phục, phòng nghỉ hay phương tiện; nền tảng kết nối du khách với các đối tác cung cấp. Bốn trụ cột:
+AI đề xuất lộ trình cá nhân hóa. Khách nhập ngày đi, điểm đến, sở thích và ngân sách; hệ thống đề xuất lộ trình theo ngày phù hợp riêng với từng khách. Giai đoạn đầu chạy theo bộ quy tắc và lộ trình do đội ngũ biên tập soạn sẵn; mô hình AI hoàn chỉnh triển khai ở giai đoạn sau.
+Trung gian thuê đồ và phối đồ theo địa điểm bằng AI. DealZ kết nối khách với các shop cho thuê trang phục; AI đề xuất cách phối đồ phù hợp với từng địa điểm trong lộ trình, lọc theo bộ đồ còn trống đúng ngày đi.
+Dịch vụ lưu trú và di chuyển theo tầm giá. Khách chọn mức ngân sách, DealZ gợi ý chỗ ở (khách sạn, homestay) và phương tiện đi lại (như xe máy) phù hợp, đặt ngay trong lộ trình.
+Dịch vụ đi kèm. Chụp ảnh và các dịch vụ trải nghiệm khác bán kèm theo lộ trình, như trang điểm, vé tham quan, tour, đưa đón; mở rộng dần theo các giai đoạn.
+2.4. Tầm nhìn
+Trở thành nền tảng lộ trình du lịch được tin cậy tại Việt Nam, nơi du khách trong và ngoài nước tìm được lịch trình, xu hướng chụp ảnh và mọi dịch vụ cần thiết cho từng điểm đến chỉ trong một lần đặt.
+2.5. Sứ mệnh
+Với du khách (nội địa và quốc tế): giúp lên kế hoạch chuyến đi dễ hơn và có bộ ảnh đẹp, bằng lộ trình miễn phí, giá và cọc minh bạch, một lần thanh toán cho nhiều dịch vụ.
+Với shop và đối tác dịch vụ: đưa sản phẩm vào đúng lộ trình mà khách đang quan tâm, số hóa quản lý lịch và thanh toán, tiếp cận khách ngoài địa phương mà không phải tự xây hệ thống.
+Với địa phương và cộng đồng: quảng bá điểm đến và văn hóa qua ngôn ngữ thời trang (như áo dài), giảm lãng phí thời trang dùng một lần.
+II. MÔ TẢ DỊCH VỤ
+DealZ cung cấp dịch vụ trên website dealz.id.vn (tiếng Việt và tiếng Anh). Luồng sử dụng đi theo câu hỏi “Đi đâu, mấy ngày?” thay vì phân loại thuần túy theo sản phẩm.
+Sản phẩm và dịch vụ bán kèm ở giai đoạn 1:
+Nhóm
+Nội dung
+Đối tác
+Trang phục
+Đồ chụp ảnh du lịch, áo dài, đồ cưới, dự tiệc/dạ hội
+Shop cho thuê trang phục tại các địa điểm du lịch
+Lưu trú
+Khách sạn, homestay gần điểm trong lộ trình
+Cơ sở lưu trú tại các địa điểm du lịch
+Chụp ảnh
+Nhiếp ảnh gia theo giờ hoặc theo địa điểm
+Nhiếp ảnh gia, studio tại địa phương
+Thuê xe
+Xe máy, xe hơi thuê theo ngày để đi lại giữa các điểm
+Cửa hàng cho thuê xe, phương tiện di chuyển tại địa phương
+
+Các dịch vụ khác (trang điểm, vé tham quan, tour, đưa đón) để dành cho giai đoạn sau.
+Đối tượng
+Dịch vụ chính
+Lợi ích
+Du khách và người thuê
+Lộ trình và cẩm nang miễn phí; combo địa điểm + outfit; xem lịch trống, đặt trang phục, lưu trú, nhiếp ảnh gia, xe máy trong cùng một giỏ; thanh toán một lần; theo dõi đơn; đánh giá, chia sẻ ảnh
+Tiết kiệm thời gian lên kế hoạch; biết trước tổng chi phí; không phải làm việc với nhiều nơi
+Shop và đối tác dịch vụ
+Gian hàng riêng; công cụ đăng sản phẩm, dịch vụ; được ghép vào lộ trình và combo; quản lý lịch, đơn hàng, doanh thu; đối soát
+Thêm khách mới, giảm trùng lịch, được quảng bá theo xu hướng, không cần tự xây website
+
+Quy trình trải nghiệm của khách
+Truyền cảm hứng: Khách truy cập DealZ, tham khảo các cẩm nang du lịch (ví dụ: “Góc chụp đẹp ở bán đảo Sơn Trà”) hoặc chọn điểm đến và số ngày trải nghiệm.
+Nhận lộ trình: Hệ thống đề xuất lịch trình theo từng ngày, kèm các dịch vụ phù hợp như trang phục, lưu trú, nhiếp ảnh và thuê xe máy dựa trên lịch còn trống của đối tác.
+Lựa chọn và đặt dịch vụ: Khách thêm các dịch vụ cần thiết vào giỏ hàng, kiểm tra giá, tiền cọc và chính sách hủy của từng đối tác. Hệ thống kiểm tra tình trạng đặt chỗ và tổng hợp chi phí.
+Thanh toán qua DealZ: Khách trong nước thanh toán bằng mã QR payOS. Khách quốc tế có thể thanh toán bằng thẻ hoặc ví quốc tế khi nền tảng triển khai tích hợp ở giai đoạn 2.
+Sử dụng dịch vụ: Khách nhận trang phục tại shop, nhận phòng, gặp nhiếp ảnh gia và nhận xe theo lịch hẹn với đối tác. Dịch vụ giao đến khách sạn sẽ được triển khai ở giai đoạn 3.
+Hoàn tất và đánh giá: Sau khi đối tác xác nhận hoàn tất dịch vụ, tiền cọc trang phục được hoàn lại trong 1–3 ngày làm việc nếu sản phẩm nguyên vẹn. DealZ thực hiện đối soát và chuyển tiền cho đối tác sau khi trừ hoa hồng. Khách được mời đánh giá dịch vụ và chia sẻ hình ảnh lên cộng đồng DealZ.
+Quy tắc nghiệp vụ áp dụng ở giai đoạn 1
+Quy tắc
+Nội dung
+Cọc bảo đảm
+Cọc bằng 30% giá trị bộ đồ và được thu cùng tiền thuê. Hoàn cọc trong 1–3 ngày làm việc sau khi shop kiểm tra và xác nhận đồ nguyên vẹn. Nếu có hư hỏng, shop được khấu trừ theo mức độ, kèm hình ảnh làm bằng chứng.
+Chính sách hủy
+Hủy trước trên 48 giờ so với giờ nhận đồ: hoàn 100% tiền thuê và tiền cọc. Hủy từ 24 đến 48 giờ: hoàn 50% tiền thuê và hoàn toàn bộ tiền cọc. Hủy dưới 24 giờ hoặc không đến nhận: không hoàn tiền thuê, hoàn tiền cọc. Nếu shop hủy: hoàn 100% số tiền khách đã thanh toán và hỗ trợ tìm sản phẩm thay thế.
+Giờ nhận, trả
+Thời gian nhận và trả đồ trong khung 8:00–20:00; giờ cụ thể do shop quy định theo từng sản phẩm. Trả trễ áp dụng phụ phí theo giờ hoặc ngày, được khấu trừ vào tiền cọc.
+Hư hỏng, mất đồ
+Hư hỏng nhẹ (vết bẩn thông thường): shop tự xử lý, không khấu trừ tiền cọc. Hư hỏng nặng (rách, ố không thể giặt sạch): khấu trừ theo mức độ thiệt hại. Trường hợp mất đồ: khấu trừ toàn bộ tiền cọc, nếu chưa đủ bồi thường thì khách thanh toán phần còn thiếu theo giá trị bộ đồ.
+
+Lưu trú, chụp ảnh và thuê xe máy
+Giá và chính sách hủy: Do từng đối tác quy định, được hiển thị công khai để khách xem trước khi đặt dịch vụ.
+Thanh toán và đối soát: DealZ tạm giữ khoản thanh toán và chỉ chuyển tiền cho đối tác sau khi dịch vụ được xác nhận hoàn tất (khách nhận phòng, buổi chụp kết thúc hoặc khách nhận xe).
+Đối tác hủy dịch vụ: Nếu đối tác hủy hoặc không thể cung cấp dịch vụ đã đặt, DealZ hoàn tiền cho khách và hỗ trợ tìm đối tác thay thế.
+Chính sách cọc và hủy: Mức cọc, thời hạn hủy và tỷ lệ hoàn tiền cụ thể sẽ được bổ sung sau khi nhóm trao đổi và thống nhất với từng đối tác.
+Chính sách dành cho khách quốc tế
+Ngôn ngữ và hỗ trợ: Cung cấp giao diện, lộ trình và điều khoản bằng tiếng Anh; hỗ trợ khách hàng qua kênh nhắn tin tiếng Anh.
+Thanh toán và tiền cọc: Không yêu cầu khách giữ hộ chiếu làm tài sản bảo đảm. Tiền cọc dự kiến được xử lý qua thẻ hoặc ví thanh toán quốc tế, chẳng hạn sử dụng hình thức giữ trước một khoản tiền trên thẻ và giải phóng sau khi khách trả đồ. Phương thức này phụ thuộc vào khả năng hỗ trợ của cổng thanh toán, dự kiến triển khai từ giai đoạn 2. Trong giai đoạn 1, khách quốc tế chủ yếu tiếp cận nội dung và gửi yêu cầu đặt trước thông qua kênh hỗ trợ.
+Thông tin dành cho du khách: Cung cấp các mẹo văn hóa, quy tắc ăn mặc khi tham quan đền chùa, cùng những lưu ý về giao thông và an toàn tại địa phương.
+Lưu ý về phân khúc khách quốc tế: Khảo sát bằng tiếng Anh của nhóm hiện mới có 21 mẫu và chưa được bổ sung thêm, do đó chưa đủ cơ sở để kết luận về nhu cầu của phân khúc này. Nhóm xem đây là giả định cần tiếp tục kiểm chứng trong giai đoạn thí điểm và chưa ưu tiên đầu tư lớn.
+III. MÔ HÌNH KINH DOANH
+1. Loại hình mô hình
+DealZ vận hành theo mô hình sàn trung gian kết hợp nội dung, theo hướng nhẹ tài sản và kết hợp trực tuyến – trực tiếp: khách đặt chỗ và thanh toán trực tuyến, sau đó nhận và sử dụng dịch vụ tại cơ sở của đối tác.
+Trong đó, lộ trình và cẩm nang du lịch miễn phí đóng vai trò thu hút người dùng; các sản phẩm, dịch vụ đặt kèm là nguồn tạo doanh thu. DealZ không trực tiếp sở hữu hàng tồn kho mà tập trung phát triển nền tảng, quản lý dữ liệu vận hành, nội dung, thương hiệu và quy trình kết nối giữa khách hàng với đối tác.
+2. Vai trò của các bên
+Bên tham gia
+Trách nhiệm chính
+Quyền lợi hoặc nguồn thu
+Shop và đối tác dịch vụ
+Đăng sản phẩm, dịch vụ đúng mô tả; cập nhật lịch trống; cung cấp dịch vụ đúng chất lượng cam kết; xác nhận hoàn tất đơn hàng.
+Tiếp cận khách hàng mới; được giới thiệu trong lộ trình và combo; nhận doanh thu sau khi đối soát và trừ hoa hồng.
+Du khách, người thuê
+Thanh toán theo phương thức đã chọn; giữ gìn và trả trang phục đúng giờ; tuân thủ chính sách của từng đối tác.
+Sử dụng lộ trình miễn phí; đặt nhiều dịch vụ trên cùng nền tảng; xem rõ giá, tiền cọc và chính sách trước khi đặt.
+DealZ
+Sản xuất nội dung; vận hành nền tảng; kiểm duyệt đối tác và thông tin dịch vụ; quản lý đơn hàng, phối hợp thanh toán và đối soát; hỗ trợ giải quyết tranh chấp và marketing.
+Thu hoa hồng từ các giao dịch phát sinh qua nền tảng.
+
+3. Dòng tiền và cơ chế thu hoa hồng
+Khách hàng có thể thanh toán một lần cho nhiều dịch vụ thông qua DealZ. Đối với các đơn hàng thanh toán qua nền tảng, dòng tiền được tiếp nhận và phân bổ thông qua cổng thanh toán hoặc đơn vị cung ứng dịch vụ thanh toán phù hợp. Sau khi dịch vụ hoàn tất và được xác nhận, khoản thanh toán được đối soát để chuyển cho đối tác sau khi trừ hoa hồng.
+Đối với trang phục, tiền cọc được quản lý riêng và hoàn lại cho khách sau khi shop kiểm tra, xác nhận đồ nguyên vẹn. Hoa hồng chỉ tính trên tiền thuê và giá trị dịch vụ, không tính trên tiền cọc vì đây là khoản bảo đảm được hoàn lại nếu khách đáp ứng điều kiện.
+Ở giai đoạn 1, DealZ dự kiến thực hiện đối soát thủ công dựa trên báo cáo đơn hàng và xác nhận từ đối tác.
+Riêng dịch vụ lưu trú, tùy theo thỏa thuận, một số cơ sở có thể yêu cầu khách thanh toán trực tiếp tại quầy. Trong trường hợp này, DealZ ghi nhận đơn đặt chỗ thông qua mã đặt chỗ và thực hiện đối soát hoa hồng với cơ sở lưu trú theo thỏa thuận.
+4. Mức hoa hồng đề xuất
+Mức hoa hồng được đề xuất khác nhau tùy theo đặc thù từng loại dịch vụ. Bảng dưới đây là mức tham khảo ban đầu để nhóm xem xét, chưa phải mức đã thống nhất với đối tác.
+Loại dịch vụ
+Hoa hồng đề xuất
+Cơ sở đề xuất
+Trang phục
+10% tiền thuê
+Mức khởi điểm nhằm tạo điều kiện thu hút shop tham gia; không tính trên tiền cọc.
+Chụp ảnh
+15–20% giá dịch vụ
+Đề xuất mức cao hơn do đặc thù dịch vụ và khả năng khai thác khách hàng qua nền tảng.
+Thuê xe máy
+10–15% tiền thuê
+Đề xuất mức thấp hơn để phù hợp với đặc thù kinh doanh và khả năng cạnh tranh về giá của đối tác.
+Lưu trú
+8–12% giá phòng
+Đề xuất mức tương đối thấp nhằm khuyến khích cơ sở lưu trú hợp tác trong giai đoạn đầu.
+
+5. Ví dụ minh họa: một ngày ở Hội An
+Các mức giá dưới đây chỉ mang tính minh họa để thể hiện cách tính tiền và hoa hồng, không phải giá thực tế của đối tác. Ví dụ giả định khách thanh toán toàn bộ dịch vụ thông qua DealZ.
+Khoản
+Giá khách thanh toán
+Hoa hồng DealZ
+Thuê áo dài (giá trị bộ đồ 2.000.000đ), 1 ngày
+250.000đ
+10% = 25.000đ
+Cọc áo dài (30% giá trị bộ đồ), hoàn lại sau khi trả đồ
+600.000đ
+Không tính
+Nhiếp ảnh gia, 1 giờ
+600.000đ
+15% = 90.000đ
+Thuê xe máy, 1 ngày
+150.000đ
+10% = 15.000đ
+Lưu trú, 1 đêm
+500.000đ
+10% = 50.000đ
+Tổng cộng
+2.100.000đ
+180.000đ
+
+Khách thanh toán ban đầu 2.100.000đ, bao gồm 600.000đ tiền cọc. Sau khi trả trang phục nguyên vẹn, khách được hoàn lại tiền cọc và chi phí dịch vụ thực tế còn 1.500.000đ. Tổng hoa hồng DealZ nhận được theo ví dụ là 180.000đ.
+Nếu chỉ phát sinh đơn thuê trang phục, DealZ nhận 25.000đ hoa hồng. Khi khách sử dụng đầy đủ các dịch vụ trong ví dụ, tổng hoa hồng đạt 180.000đ, tương đương 7,2 lần so với chỉ bán trang phục. Điều này cho thấy tiềm năng tăng doanh thu hoa hồng trên mỗi khách thông qua việc kết hợp nhiều dịch vụ trong cùng một lộ trình.
+6. Nguồn doanh thu theo từng giai đoạn
+GĐ
+Nguồn thu
+Mô tả
+1
+Hoa hồng trang phục (10%)
+Nguồn thu từ sản phẩm đặc trưng, phát sinh khi đơn hàng hoàn tất.
+1
+Hoa hồng dịch vụ trải nghiệm
+Thu từ lưu trú, chụp ảnh, thuê xe máy theo mức thỏa thuận với từng đối tác.
+2
+Gói hiển thị ưu tiên
+Đối tác trả phí để được ưu tiên giới thiệu trong lộ trình, combo và trang chủ; nội dung quảng bá cần được nhận diện rõ.
+2
+Tài trợ nội dung, quảng bá điểm đến
+Khách sạn, resort và điểm tham quan hợp tác tài trợ nội dung; công khai rõ nội dung có tài trợ.
+2
+Hoa hồng từ dịch vụ mở rộng
+Phát sinh khi bổ sung các dịch vụ như trang điểm, vé tham quan, tour và đưa đón.
+3
+Phí giao nhận tại khách sạn
+Thu phí theo đơn giao nhận; phần lớn khoản phí được chuyển cho đối tác giao nhận, phần còn lại là doanh thu của DealZ.
+
+7. Lộ trình mở rộng toàn quốc
+Giai đoạn
+Phạm vi
+Trọng tâm
+1: Thí điểm
+Đà Nẵng – Hội An
+Hoàn thiện lộ trình và combo tại các điểm du lịch nổi bật; tuyển shop và đối tác dịch vụ; vận hành quy trình đặt chỗ, cọc, hủy và đối soát thủ công; đo lường tỷ lệ chuyển đổi từ lượt xem lộ trình sang đơn hàng.
+2: Quốc tế hóa và nhân rộng
+Mở rộng thêm 2–3 điểm đến có nhu cầu chụp ảnh cao như Huế, Nha Trang, Đà Lạt.
+Hoàn thiện phiên bản tiếng Anh; tích hợp thanh toán quốc tế; triển khai gói hiển thị ưu tiên, AI gợi ý và bổ sung các nhóm dịch vụ mới.
+3: Mạng lưới toàn quốc
+Hà Nội, TP.HCM, Phú Quốc, Sa Pa và các điểm đến khác.
+Mở rộng hợp tác với khách sạn, nhiếp ảnh gia và đơn vị giao nhận; phát triển combo trọn gói; xây dựng mô hình đại diện địa phương để tuyển đối tác và biên tập nội dung theo từng vùng.
+
+Nguyên tắc mở rộng: Nhóm đề xuất chỉ triển khai tại điểm đến mới khi có khoảng 20 đối tác tham gia, bao gồm shop trang phục và các đơn vị cung cấp dịch vụ. Bên cạnh số lượng, cần bảo đảm có đủ các nhóm dịch vụ cốt lõi, lịch cung cấp dịch vụ ổn định và nội dung địa phương như lộ trình, góc chụp, mùa vụ. Đây là ngưỡng đề xuất ban đầu để kiểm soát chất lượng trước khi nhân rộng.
+8. Động lực tăng trưởng
+DealZ xây dựng lộ trình cho các điểm đến nổi bật → kết hợp trang phục và dịch vụ từ đối tác → du khách sử dụng lộ trình và đặt dịch vụ trọn gói → khách có trải nghiệm tốt, chia sẻ hình ảnh lên mạng xã hội → thu hút thêm du khách mới → đối tác nhận thấy hiệu quả và đưa thêm sản phẩm, dịch vụ lên sàn → danh mục dịch vụ và lộ trình ngày càng phong phú.
+
+Mô hình động lực tăng trưởng 
+9. Lợi thế và hạn chế
+Lợi thế
+Mô hình nhẹ tài sản: Không cần đầu tư hàng tồn kho; nguồn lực tập trung vào phát triển nền tảng, sản xuất nội dung và kết nối đối tác.
+Tăng doanh thu trên mỗi khách: Kết hợp nhiều dịch vụ trong cùng lộ trình giúp tăng tổng hoa hồng so với chỉ khai thác một dịch vụ riêng lẻ.
+Hiệu ứng mạng và dữ liệu: Số lượng đối tác, khách hàng và đánh giá tăng giúp mở rộng lựa chọn, đồng thời tạo cơ sở cải thiện chất lượng gợi ý theo nhu cầu và xu hướng tại từng điểm đến.
+Hạn chế cần quản lý
+Chi phí sản xuất và cập nhật nội dung có thể cao, trong khi doanh thu chỉ phát sinh khi khách chuyển đổi sang đặt dịch vụ.
+Nhóm chưa có khảo sát chuyên biệt về nhu cầu xem lộ trình và đặt dịch vụ trải nghiệm theo combo. Đây là giả định cần kiểm chứng trong giai đoạn thí điểm thông qua tỷ lệ chuyển đổi thực tế.
+Mức hoa hồng đối với lưu trú, chụp ảnh và thuê xe máy chưa được thương lượng, do đó các tỷ lệ hiện tại mới là đề xuất ban đầu.
+Pháp lý và vận hành thanh toán: Dự án chưa thành lập pháp nhân. Theo Luật Thương mại điện tử số 122/2025/QH15, chủ quản nền tảng thương mại điện tử trung gian có chức năng đặt hàng trực tuyến phải là pháp nhân được thành lập theo pháp luật Việt Nam, đáp ứng điều kiện và đăng ký với cơ quan có thẩm quyền trước khi vận hành. Nếu DealZ thực hiện việc giữ tiền của người bán, nền tảng cần có cơ chế quản lý tiền, đối soát, thanh toán và rút tiền được quy định trong hợp đồng điện tử. Nhóm cần hoàn thiện pháp nhân, thủ tục đăng ký nền tảng và phương án thanh toán phù hợp trước khi triển khai giao dịch thực tế.
+Phụ thuộc vào đối tác địa phương: Chất lượng dịch vụ và khả năng cung cấp tại từng điểm đến phụ thuộc vào số lượng, mức độ uy tín và lịch trống của đối tác. DealZ cần duy trì hoạt động SEO và mạng xã hội để thu hút khách hàng.
+Dữ liệu khách quốc tế còn hạn chế: Khảo sát tiếng Anh hiện mới có 21 mẫu, chưa đủ cơ sở để xác định chắc chắn nhu cầu của phân khúc này.
+IV. BUSINESS MODEL CANVAS CỦA DEALZ
+1. Phân khúc khách hàng (Customer Segments)
+1.1. Khách hàng là người bán (Sellers)
+Shop cho thuê trang phục: Áo dài, đồ chụp ảnh, váy dạ hội, áo cưới và studio có kho trang phục. Đây là nhóm người bán cốt lõi, nhóm đã khảo sát 17 shop tại Đà Nẵng.
+Cơ sở lưu trú: Khách sạn, homestay gần các điểm đến trong lộ trình.
+Nhiếp ảnh gia và studio ảnh du lịch: Cung cấp dịch vụ chụp ảnh theo giờ hoặc theo gói.
+Cửa hàng cho thuê xe: Cung cấp phương tiện di chuyển cho khách du lịch.
+1.2. Khách hàng là người mua (Buyers)
+Du khách nội địa: Giới trẻ, nhóm bạn, cặp đôi và gia đình trẻ có nhu cầu du lịch ngắn ngày, chụp ảnh và trải nghiệm địa phương.
+Du khách quốc tế: Phân khúc mở rộng từ giai đoạn 2, khi DealZ hoàn thiện giao diện tiếng Anh và tích hợp phương thức thanh toán quốc tế.
+Người dân địa phương: Có nhu cầu thuê trang phục phục vụ tiệc, kỷ yếu, cưới và các dịp đặc biệt.
+2. Tuyên bố giá trị (Value Propositions)
+2.1. Đối với người bán
+Tiếp cận thêm khách hàng, đặc biệt là du khách ngoài địa phương.
+Được giới thiệu trong các lộ trình và combo phù hợp với nhu cầu của khách.
+Quản lý lịch đặt, đơn hàng và doanh thu tập trung trên nền tảng.
+Chỉ trả hoa hồng khi phát sinh đơn hàng thành công.
+Không cần tự xây dựng và duy trì website bán hàng riêng.
+2.2. Đối với người mua
+Miễn phí tham khảo lộ trình, cẩm nang và combo địa điểm – trang phục.
+Có thể lựa chọn và đặt nhiều dịch vụ trên cùng một nền tảng.
+Thanh toán một lần đối với các dịch vụ hỗ trợ thanh toán qua DealZ.
+Minh bạch giá thuê, tiền cọc, chính sách hủy và tổng chi phí trước khi đặt.
+Hỗ trợ tiếng Anh và không yêu cầu giữ hộ chiếu làm tài sản bảo đảm khi phục vụ khách quốc tế.
+3. Các kênh phân phối (Channels)
+Website: dealz.id.vn là kênh chính để giới thiệu lộ trình, hiển thị dịch vụ và tiếp nhận đơn đặt chỗ; tập trung tối ưu SEO theo từ khóa về địa điểm và kinh nghiệm du lịch.
+Mạng xã hội: Facebook, Instagram và TikTok dùng để đăng lookbook, hình ảnh trang phục, địa điểm và xu hướng du lịch.
+Kênh tư vấn: Zalo hỗ trợ giải đáp và tư vấn đặt dịch vụ nhanh chóng.
+Kênh tìm kiếm địa điểm: Google Maps hỗ trợ khách tìm kiếm và tiếp cận các đối tác.
+Kênh lan tỏa: KOC du lịch, các nhóm review và cộng đồng chia sẻ kinh nghiệm.
+Kênh trực tiếp: Mã QR đặt tại khách sạn, homestay, studio và cửa hàng đối tác để dẫn khách về website.
+4. Quan hệ khách hàng (Customer Relationships)
+Đối với người mua: Cung cấp giá trị trước khi bán thông qua lộ trình và cẩm nang miễn phí; hỗ trợ khách tự tìm kiếm, lựa chọn và đặt dịch vụ trên website; tư vấn qua Zalo; hỗ trợ tiếng Anh khi mở rộng phân khúc quốc tế; khuyến khích đánh giá công khai, chia sẻ hình ảnh và triển khai ưu đãi cho khách hàng quay lại.
+Đối với người bán: Có người phụ trách hỗ trợ riêng; hướng dẫn đăng sản phẩm, cập nhật lịch trống, quản lý đơn hàng; cung cấp báo cáo đơn và doanh thu theo chu kỳ đối soát.
+5. Dòng doanh thu (Revenue Streams)
+Giai đoạn 1: Hoa hồng 10% từ tiền thuê trang phục; hoa hồng từ lưu trú, chụp ảnh và thuê xe máy theo mức thỏa thuận với từng đối tác.
+Giai đoạn 2: Phí gói hiển thị ưu tiên; doanh thu từ nội dung tài trợ và quảng bá điểm đến; hoa hồng từ các dịch vụ mở rộng như trang điểm, vé tham quan và tour.
+Giai đoạn 3: Phí giao nhận tại khách sạn theo từng đơn hàng.
+6. Nguồn lực chủ chốt (Key Resources)
+Nền tảng công nghệ: Website WordPress, WooCommerce, Dokan và hệ thống đặt dịch vụ theo ngày.
+Nội dung và thương hiệu: Kho lộ trình, cẩm nang du lịch, lookbook và nhận diện thương hiệu DealZ.
+Mạng lưới đối tác: Shop trang phục, cơ sở lưu trú, nhiếp ảnh gia và các đơn vị cung cấp dịch vụ.
+Nhân sự và dữ liệu: Đội ngũ 4 thành viên cùng dữ liệu sản phẩm, lịch đặt chỗ và đánh giá khách hàng.
+7. Hoạt động trọng yếu (Key Activities)
+Phát triển nội dung: Nghiên cứu địa điểm, xây dựng lộ trình, cẩm nang, lookbook và bộ sưu tập theo mùa; dịch thuật và cập nhật nội dung.
+Quản lý đối tác: Tuyển chọn, hướng dẫn, hỗ trợ đối tác và kiểm duyệt thông tin sản phẩm, dịch vụ.
+Vận hành nền tảng: Cập nhật lịch trống, tiếp nhận, xử lý và theo dõi đơn đặt chỗ.
+Quản lý giao dịch: Phối hợp với đơn vị thanh toán để theo dõi giao dịch, đối soát và chuyển tiền cho đối tác.
+Chăm sóc khách hàng và marketing: Hỗ trợ khách hàng, giải quyết khiếu nại; triển khai SEO, mạng xã hội và các hoạt động quảng bá DealZ.
+8. Đối tác chính (Key Partners)
+Đối tác cung cấp dịch vụ: Shop cho thuê trang phục, studio có kho đồ, khách sạn, homestay và cơ sở lưu trú.
+Đối tác trải nghiệm: Nhiếp ảnh gia, studio chụp ảnh du lịch và cửa hàng cho thuê xe máy.
+Đối tác vận chuyển: Đơn vị giao nhận, vận chuyển trang phục và dịch vụ đến khách sạn.
+Đối tác nội dung du lịch: Điểm tham quan, hướng dẫn viên và công ty lữ hành.
+Đối tác truyền thông: KOC du lịch và cộng đồng review hỗ trợ quảng bá, tiếp cận khách hàng.
+9. Cấu trúc chi phí (Cost Structure)
+Chi phí nghiên cứu địa điểm, sản xuất và cập nhật nội dung.
+Chi phí duy trì hạ tầng website, hosting, tên miền và giấy phép plugin.
+Chi phí marketing, SEO và quảng bá trên mạng xã hội.
+Khoản dự phòng xử lý sự cố, hoàn tiền và bồi hoàn theo chính sách.
+V. PHÂN TÍCH THỊ TRƯỜNG
+1. Tổng quan thị trường
+Thị trường mục tiêu của DealZ nằm ở giao điểm của ba lĩnh vực: nền tảng cung cấp thông tin và lộ trình du lịch, dịch vụ du lịch trực tuyến (lưu trú, di chuyển, chụp ảnh) và dịch vụ cho thuê trang phục. Thay vì chỉ tập trung vào việc đặt từng dịch vụ riêng lẻ, DealZ hướng đến việc kết nối các nhu cầu này trên cùng một nền tảng, giúp du khách dễ dàng lên kế hoạch, lựa chọn dịch vụ và đặt trải nghiệm tại điểm đến.
+Trong giai đoạn đầu, DealZ lựa chọn Đà Nẵng – Hội An làm thị trường thí điểm. Đây là khu vực có hoạt động du lịch sôi động, nhiều địa điểm tham quan và chụp ảnh, đồng thời có hệ thống cơ sở kinh doanh dịch vụ du lịch và cho thuê trang phục tương đối đa dạng.
+1.1. Quy mô và xu hướng thị trường toàn cầu
+Thị trường du lịch toàn cầu đang có sự chuyển dịch từ hình thức đặt các dịch vụ cơ bản sang tìm kiếm và đặt những trải nghiệm cụ thể tại điểm đến. Một số xu hướng đáng chú ý gồm:
+Gia tăng nhu cầu đặt trải nghiệm trực tuyến: Các nền tảng như Klook, KKday và Traveloka không chỉ cung cấp dịch vụ lưu trú, vé máy bay mà còn mở rộng sang các hoạt động tham quan, vui chơi, trải nghiệm và dịch vụ tại điểm đến. Điều này cho thấy khách du lịch ngày càng quen với việc tìm kiếm và đặt nhiều loại dịch vụ trên nền tảng trực tuyến.
+Nội dung số ảnh hưởng đến quyết định du lịch: Video ngắn, hình ảnh và nội dung chia sẻ trên mạng xã hội trở thành nguồn tham khảo quan trọng khi du khách lựa chọn điểm đến, địa điểm chụp ảnh, trang phục và hoạt động trải nghiệm.
+Xu hướng tiêu dùng thời trang tuần hoàn: Dịch vụ thuê trang phục tạo điều kiện để khách hàng sử dụng nhiều phong cách khác nhau mà không cần mua mới, đồng thời góp phần kéo dài vòng đời sản phẩm và hạn chế lãng phí.
+Phát triển mô hình marketplace chuyên biệt: Bên cạnh các sàn thương mại điện tử đa ngành, những nền tảng tập trung vào một nhóm nhu cầu cụ thể có cơ hội tạo lợi thế nhờ nội dung chuyên sâu, khả năng kết nối đối tác địa phương và trải nghiệm phù hợp với từng nhóm khách hàng.
+Những xu hướng trên tạo cơ sở cho mô hình hoạt động của DealZ. Tuy nhiên, đây mới là cơ sở nhận diện cơ hội thị trường ở mức định tính. Để chứng minh quy mô và tiềm năng tăng trưởng, nhóm cần bổ sung số liệu thị trường toàn cầu từ các báo cáo đáng tin cậy trước khi hoàn thiện báo cáo.
+1.2. Bối cảnh thị trường du lịch và thương mại điện tử tại Việt Nam
+Việt Nam là thị trường có tiềm năng đối với các nền tảng kết hợp du lịch và thương mại điện tử nhờ lượng khách du lịch lớn cùng thói quen sử dụng dịch vụ trực tuyến ngày càng phổ biến.
+Khách du lịch quốc tế: Năm 2025, Việt Nam đón gần 21,2 triệu lượt khách quốc tế, tăng hơn 20% so với năm 2024. Mục tiêu năm 2026 là đón 25 triệu lượt khách. Trong đó, Trung Quốc và Hàn Quốc là hai thị trường khách quốc tế lớn, với lượng khách lần lượt khoảng 5,3 triệu và 4,3 triệu lượt theo số liệu nhóm tổng hợp.
+Khách du lịch nội địa: Lượng khách nội địa năm 2025 ước đạt khoảng 110–130 triệu lượt tùy theo nguồn thống kê. Đây là nhóm khách hàng tiềm năng đối với các dịch vụ lập lộ trình, thuê trang phục, chụp ảnh và di chuyển tại điểm đến.
+Thương mại điện tử phát triển: Quy mô thương mại điện tử B2C Việt Nam năm 2025 được nhóm tổng hợp ở mức khoảng 31 tỷ USD, tăng khoảng 25–27% so với năm 2024. Hoạt động mua sắm trực tuyến ngày càng phổ biến, trong khi các nền tảng như Shopee và TikTok Shop có vai trò lớn trong việc thúc đẩy hành vi khám phá và mua hàng thông qua nội dung số.
+Thay đổi hành vi tiêu dùng: Người dùng ngày càng có xu hướng tham khảo video, hình ảnh, đánh giá và nội dung trải nghiệm trước khi đưa ra quyết định mua hàng hoặc đặt dịch vụ. Đây là cơ hội để DealZ sử dụng các lộ trình và nội dung du lịch làm điểm tiếp cận khách hàng, sau đó giới thiệu những dịch vụ phù hợp với nhu cầu của họ.
+Yêu cầu tuân thủ pháp lý: Hoạt động của các nền tảng thương mại điện tử chịu sự điều chỉnh của pháp luật về thương mại điện tử và bảo vệ quyền lợi người tiêu dùng. Vì vậy, DealZ cần chú trọng tính minh bạch trong thông tin người bán, giá dịch vụ, chính sách đặt cọc, thanh toán, hoàn tiền và xử lý khiếu nại khi triển khai thực tế.
+Nhu cầu chụp ảnh trong du lịch: Xu hướng đầu tư vào trang phục, địa điểm và dịch vụ chụp ảnh khi đi du lịch cho thấy trải nghiệm hình ảnh ngày càng có vai trò trong hành trình của một bộ phận du khách. Đây là cơ sở để DealZ xem xét kết hợp dịch vụ thuê trang phục và nhiếp ảnh với các lộ trình tham quan.
+Nhìn chung, sự phát triển của du lịch và thương mại điện tử tạo điều kiện thuận lợi cho mô hình DealZ. Tuy nhiên, thị trường cũng có mức độ cạnh tranh cao, đòi hỏi nền tảng phải tạo được giá trị khác biệt thay vì chỉ cung cấp chức năng tìm kiếm và đặt dịch vụ tương tự các sàn hiện có.
+1.3. Đặc điểm thị trường Đà Nẵng – Hội An
+Đà Nẵng – Hội An được lựa chọn làm địa bàn thí điểm nhờ sự kết hợp giữa du lịch nghỉ dưỡng, tham quan văn hóa và trải nghiệm chụp ảnh. Khu vực này có nhiều địa điểm nổi bật như Bà Nà Hills, bán đảo Sơn Trà, biển Mỹ Khê và phố cổ Hội An.
+Một số đặc điểm đáng chú ý của thị trường gồm:
+Lượng khách du lịch lớn: Đà Nẵng là điểm đến thu hút cả khách nội địa và quốc tế. Theo số liệu báo chí được nhóm tổng hợp, năm 2025 khu vực Đà Nẵng đón khoảng 17,3 triệu lượt khách. Tuy nhiên, nhóm cần đối chiếu lại phạm vi thống kê và địa giới hành chính được áp dụng để bảo đảm số liệu có thể so sánh chính xác.
+Nhiều địa điểm có nhu cầu trải nghiệm và chụp ảnh: Các địa điểm như Bà Nà Hills, bán đảo Sơn Trà, biển Mỹ Khê và phố cổ Hội An tạo ra nhu cầu về lộ trình tham quan, trang phục phù hợp và dịch vụ chụp ảnh. Đặc biệt, dịch vụ thuê áo dài và trang phục truyền thống tại Hội An có thể trở thành nhóm dịch vụ đặc trưng của DealZ.
+Nhu cầu thay đổi theo mùa: Mùa hè, các dịp lễ và thời gian diễn ra lễ hội pháo hoa quốc tế thường tạo ra nhu cầu du lịch cao. Ngược lại, mùa mưa có thể ảnh hưởng đến khả năng di chuyển và tham quan ngoài trời. Vì vậy, nội dung lộ trình trên DealZ cần được cập nhật theo thời tiết, mùa du lịch và tình trạng hoạt động của các điểm đến.
+Nguồn cung dịch vụ đa dạng nhưng phân tán: Trên địa bàn có nhiều shop cho thuê trang phục, nhiếp ảnh gia, studio, cơ sở lưu trú và đơn vị cho thuê xe máy. Tuy nhiên, nhiều cơ sở vẫn chủ yếu tiếp cận khách hàng thông qua fanpage, Zalo, giới thiệu trực tiếp hoặc các kênh riêng lẻ. Điều này khiến thông tin dịch vụ, lịch trống và quy trình đặt chỗ chưa được tập trung.
+Từ những đặc điểm trên, Đà Nẵng – Hội An là thị trường phù hợp để DealZ thử nghiệm mô hình kết nối lộ trình du lịch với các dịch vụ tại điểm đến. Việc triển khai trong phạm vi địa lý giới hạn giúp nhóm dễ tiếp cận đối tác, kiểm soát chất lượng dịch vụ và đánh giá phản ứng của khách hàng trước khi mở rộng.
+2. Phân tích nguồn cung (phía người bán) tại Đà Nẵng – Hội An
+Nguồn cung của DealZ bao gồm các đơn vị cung cấp dịch vụ trực tiếp phục vụ hành trình du lịch, trong đó có shop cho thuê trang phục, cơ sở lưu trú, nhiếp ảnh gia, studio và đơn vị cho thuê xe máy.
+Qua quá trình khảo sát ban đầu, nhóm ghi nhận 17 shop cho thuê trang phục đã được tiếp cận và thể hiện sự sẵn sàng tham gia nền tảng. Đây là tín hiệu tích cực đối với khả năng hình thành nguồn cung ban đầu của DealZ. Tuy nhiên, nhóm vẫn cần tiếp tục xác nhận mức độ sẵn sàng hợp tác thực tế, điều kiện tham gia và khả năng duy trì hoạt động của các đối tác.
+Nhóm người bán
+Đặc điểm hiện tại
+Nhu cầu và khoảng trống DealZ có thể giải quyết
+Shop cho thuê trang phục
+Phần lớn là cơ sở kinh doanh nhỏ, tiếp cận khách qua fanpage và Zalo; lịch thuê có thể được quản lý bằng sổ hoặc tin nhắn
+Hỗ trợ giới thiệu sản phẩm, quản lý lịch thuê, thống nhất quy trình đặt cọc và thanh toán, tiếp cận thêm khách hàng mới
+Cơ sở lưu trú
+Phụ thuộc vào khách quen và các nền tảng đặt phòng trực tuyến lớn
+Tạo thêm kênh tiếp cận khách thông qua lộ trình du lịch và các gói dịch vụ kết hợp; cung cấp thêm nguồn khách tiềm năng
+Nhiếp ảnh gia, studio
+Chủ yếu nhận khách qua giới thiệu, mạng xã hội và các kênh cá nhân
+Kết nối với nhóm khách có nhu cầu chụp ảnh rõ ràng, hỗ trợ giới thiệu dịch vụ và tập trung thông tin đặt lịch
+Đơn vị cho thuê xe máy
+Khách hàng thường tìm kiếm qua giới thiệu, mạng xã hội hoặc các kênh địa phương; hoạt động cạnh tranh về giá
+Kết nối dịch vụ di chuyển với lộ trình tham quan, hỗ trợ khách tìm kiếm và đặt dịch vụ thuận tiện hơn
+
+Nhìn chung, nguồn cung dịch vụ tại Đà Nẵng – Hội An tương đối đa dạng nhưng còn phân tán trên nhiều kênh. Khoảng trống mà DealZ hướng đến không đơn thuần là tạo thêm một kênh quảng cáo, mà là kết nối các dịch vụ có liên quan trong cùng một hành trình du lịch, đồng thời chuẩn hóa thông tin và quy trình đặt dịch vụ.
+Đối với giai đoạn thí điểm, nhóm cho rằng nên ưu tiên phát triển mạng lưới shop cho thuê trang phục và nhiếp ảnh gia trước, vì đây là hai nhóm dịch vụ có mối liên hệ trực tiếp với nhu cầu chụp ảnh du lịch và có khả năng tạo sự khác biệt cho nền tảng.
+3. Phân tích nhu cầu (phía khách hàng)
+DealZ hướng đến hai nhóm khách hàng chính là khách du lịch nội địa và khách du lịch quốc tế. Mỗi nhóm có đặc điểm và yêu cầu khác nhau, do đó nền tảng cần thiết kế nội dung, dịch vụ và quy trình đặt chỗ phù hợp.
+3.1. Khách hàng quốc tế
+Hàn Quốc và Trung Quốc là hai thị trường khách quốc tế lớn của Việt Nam. Trong đó, Đà Nẵng là điểm đến quen thuộc đối với khách Hàn Quốc, tạo cơ hội để DealZ tiếp cận nhóm khách có nhu cầu tham quan, chụp ảnh và trải nghiệm dịch vụ tại địa phương.
+Một số nhu cầu đáng chú ý của nhóm khách quốc tế gồm:
+Thông tin đa ngôn ngữ: Khách cần lộ trình, thông tin dịch vụ và hướng dẫn sử dụng nền tảng bằng ngôn ngữ dễ hiểu.
+Thanh toán thuận tiện: Cần có phương thức thanh toán phù hợp với khách nước ngoài, đặc biệt là thanh toán bằng thẻ hoặc các phương thức thanh toán quốc tế được hỗ trợ.
+Chính sách thuê rõ ràng: Thông tin về tiền cọc, giấy tờ cần thiết, thời gian thuê, trách nhiệm khi làm hỏng hoặc mất trang phục cần được công khai trước khi đặt dịch vụ.
+Hỗ trợ trong quá trình trải nghiệm: Khách cần hướng dẫn cụ thể về địa điểm nhận và trả trang phục, thời gian đặt lịch và cách liên hệ khi phát sinh vấn đề.
+Tuy nhiên, dữ liệu khảo sát hiện tại của nhóm mới có 21 mẫu bằng tiếng Anh. Quy mô mẫu này chưa đủ để đại diện cho toàn bộ khách quốc tế, đặc biệt khi hai thị trường Hàn Quốc và Trung Quốc có đặc điểm ngôn ngữ và hành vi tiêu dùng khác nhau. Vì vậy, các nhận định trên nên được xem là giả định ban đầu cần tiếp tục kiểm chứng bằng khảo sát thực tế.
+3.2. Khách hàng nội địa
+Khách du lịch nội địa là nhóm khách hàng quan trọng trong giai đoạn đầu của DealZ do khả năng tiếp cận và khảo sát thuận lợi hơn. Nhu cầu chụp ảnh, tham quan và sử dụng trang phục phù hợp với từng địa điểm tạo cơ hội để nền tảng kết hợp nhiều dịch vụ trong cùng một hành trình.
+Theo kết quả khảo sát của nhóm:
+58,0% người được khảo sát ưu tiên thuê trang phục để chụp ảnh khi đi du lịch.
+61,8% cho rằng nhu cầu thuê trang phục chụp ảnh phát sinh thường xuyên hơn.
+Khoảng 1/6 số người được khảo sát bày tỏ lo ngại về nguy cơ mất tiền cọc khi thuê trang phục.
+Những kết quả này cho thấy dịch vụ thuê trang phục có tiềm năng trở thành một trong những nhóm dịch vụ trọng tâm của DealZ. Đồng thời, lo ngại về tiền cọc phản ánh tầm quan trọng của sự minh bạch và độ tin cậy trong giao dịch.
+Do đó, DealZ cần chú trọng các yếu tố sau:
+Công khai giá thuê, thời gian thuê và các khoản phí phát sinh.
+Quy định rõ mức tiền cọc, điều kiện hoàn cọc và trường hợp bị khấu trừ.
+Cung cấp thông tin về tình trạng trang phục trước khi khách nhận.
+Hiển thị đánh giá và phản hồi từ khách hàng đã sử dụng dịch vụ.
+Hỗ trợ xử lý khiếu nại khi có tranh chấp giữa khách hàng và người bán.
+Về tổng thể, nhu cầu của khách nội địa phù hợp với định hướng của DealZ: sử dụng lộ trình du lịch để thu hút người dùng, sau đó kết nối họ với các dịch vụ có khả năng đáp ứng nhu cầu thực tế tại điểm đến.
+3.3. Phân khúc khách hàng theo nhân khẩu học
+Dựa trên đặc điểm độ tuổi, hành vi tiêu dùng và nhu cầu trải nghiệm, DealZ có thể phân chia khách hàng thành các nhóm sau:
+Phân khúc
+Đặc điểm
+Nhu cầu chính
+Gen Z, sinh viên (18–24 tuổi)
+Quen sử dụng nền tảng trực tuyến, nhạy cảm về giá, thường tham khảo nội dung trên TikTok và mạng xã hội
+Combo chụp ảnh giá hợp lý, lộ trình ngắn, địa điểm check-in nổi bật
+Millennials, cặp đôi (25–35 tuổi)
+Có khả năng chi tiêu cao hơn, quan tâm đến chất lượng trải nghiệm và hình ảnh
+Dịch vụ nhiếp ảnh, trang phục chất lượng, lưu trú và trải nghiệm được thiết kế thuận tiện
+Gia đình, nhóm bạn
+Có nhu cầu tổ chức lịch trình cho nhiều người, cần phối hợp thời gian và phương tiện
+Thuê trang phục theo nhóm, dịch vụ di chuyển, lộ trình phù hợp với nhiều thành viên
+Khách quốc tế
+Có thể gặp rào cản về ngôn ngữ, phương thức thanh toán và thông tin địa phương
+Lộ trình đa ngôn ngữ, phương thức thanh toán phù hợp, hướng dẫn văn hóa và thông tin dịch vụ rõ ràng
+
+Trong giai đoạn đầu, DealZ nên ưu tiên nhóm khách trẻ, cặp đôi và nhóm bạn có nhu cầu tham quan kết hợp chụp ảnh. Đây là những phân khúc có sự phù hợp trực tiếp với dịch vụ thuê trang phục và nhiếp ảnh. Sau khi hoàn thiện quy trình vận hành, nền tảng có thể mở rộng sang nhóm gia đình và khách quốc tế.
+4. Phân tích mô hình marketplace và thương mại điện tử
+4.1. Thương mại điện tử Việt Nam
+Thị trường thương mại điện tử Việt Nam đang phát triển theo hướng cạnh tranh tập trung hơn, với các nền tảng lớn như Shopee và TikTok Shop có lợi thế về lượng người dùng, hệ thống vận hành và khả năng tiếp cận khách hàng.
+Bên cạnh hành vi tìm kiếm sản phẩm theo nhu cầu có sẵn, người tiêu dùng ngày càng chịu ảnh hưởng từ nội dung video, hình ảnh, đánh giá và đề xuất trên mạng xã hội. Điều này tạo cơ hội cho mô hình thương mại kết hợp nội dung, trong đó khách hàng có thể khám phá nhu cầu thông qua thông tin và trải nghiệm trước khi đưa ra quyết định mua hoặc đặt dịch vụ.
+Đây là cơ sở để DealZ phát triển mô hình nội dung dẫn dắt giao dịch. Cụ thể, nền tảng cung cấp lộ trình du lịch và gợi ý địa điểm trước, sau đó liên kết các dịch vụ phù hợp như thuê trang phục, chụp ảnh, lưu trú và di chuyển.
+Tuy nhiên, DealZ không nên cạnh tranh trực tiếp với các sàn thương mại điện tử đa ngành về số lượng sản phẩm, giá bán hoặc quy mô người dùng. Lợi thế cần tập trung vào khả năng kết nối dịch vụ địa phương theo từng hành trình, mức độ phù hợp của gợi ý và sự thuận tiện trong quá trình đặt dịch vụ.
+4.2. Xu hướng marketplace toàn cầu
+Các nền tảng marketplace ngày càng chú trọng chất lượng người bán, tính minh bạch của giao dịch và trải nghiệm sau mua, thay vì chỉ tập trung mở rộng số lượng nhà cung cấp.
+Đối với mô hình marketplace hai phía như DealZ, sự phát triển bền vững phụ thuộc vào khả năng tạo giá trị đồng thời cho cả khách hàng và người bán:
+Đối với khách hàng: Dễ tìm kiếm dịch vụ, có thông tin rõ ràng, quy trình đặt chỗ thuận tiện và cơ chế bảo vệ quyền lợi khi phát sinh vấn đề.
+Đối với người bán: Có thêm khách hàng tiềm năng, giảm thời gian tiếp nhận yêu cầu thủ công, quản lý lịch đặt và tăng khả năng giới thiệu dịch vụ.
+Đối với nền tảng: Tạo được nguồn cung ổn định, duy trì chất lượng dịch vụ và xây dựng niềm tin giữa hai phía.
+Với DealZ, các vấn đề như tiền cọc, hoàn tiền, lịch trống và đánh giá dịch vụ là những yếu tố cần được ưu tiên giải quyết. Nếu các yếu tố này được vận hành minh bạch, nền tảng có thể tạo ra giá trị khác biệt so với việc khách hàng phải liên hệ riêng từng cơ sở qua mạng xã hội.
+4.3. Marketplace chuyên biệt (Niche Marketplace)
+DealZ được định hướng là marketplace chuyên biệt trong lĩnh vực du lịch tại điểm đến, tập trung vào việc kết nối lộ trình tham quan với các dịch vụ phục vụ trải nghiệm.
+So với sàn thương mại điện tử đa ngành, mô hình này có một số lợi thế:
+Nội dung chuyên sâu: Lộ trình được xây dựng theo địa điểm, thời gian, nhu cầu và đặc điểm của từng nhóm khách.
+Dịch vụ có tính liên kết: Các dịch vụ như thuê trang phục, chụp ảnh, lưu trú và di chuyển có thể được kết hợp trong cùng một hành trình.
+Khai thác đối tác địa phương: DealZ có cơ hội kết nối với những cơ sở kinh doanh nhỏ chưa có khả năng tiếp cận hiệu quả các nền tảng lớn.
+Tạo trải nghiệm liền mạch: Khách hàng có thể tham khảo lộ trình và tìm kiếm dịch vụ liên quan trên cùng một nền tảng, giảm thời gian tìm kiếm và liên hệ riêng lẻ.
+Tuy nhiên, mô hình niche marketplace cũng có những thách thức nhất định. Nền tảng cần đồng thời thu hút đủ người bán và người mua để tạo hiệu ứng mạng lưới. Nếu nguồn cung chưa đa dạng, khách hàng có thể không tìm được dịch vụ phù hợp; ngược lại, nếu lượng khách còn thấp, người bán sẽ thiếu động lực duy trì hoạt động trên nền tảng.
+Vì vậy, lựa chọn Đà Nẵng – Hội An làm thị trường thí điểm là hướng đi phù hợp. DealZ có thể tập trung xây dựng nguồn cung, kiểm nghiệm nhu cầu và hoàn thiện quy trình vận hành tại một địa bàn trước khi mở rộng sang các thị trường khác.
+5. Phân tích SWOT
+Phân tích SWOT giúp DealZ đánh giá các yếu tố nội bộ và bên ngoài có ảnh hưởng đến khả năng triển khai mô hình kinh doanh. Trên cơ sở thông tin khảo sát và định hướng dự án, nhóm xác định các yếu tố như sau:
+Yếu tố
+Nội dung phân tích
+Điểm mạnh (Strengths)
+- Lộ trình du lịch miễn phí có khả năng thu hút người dùng và tạo điểm tiếp cận ban đầu cho nền tảng.
+- Mô hình kết hợp nhiều dịch vụ trong cùng hành trình, tạo cơ hội bán chéo và gia tăng giá trị giao dịch trên mỗi khách hàng.
+- Mô hình marketplace không yêu cầu DealZ trực tiếp sở hữu toàn bộ cơ sở vật chất, giúp giảm nhu cầu đầu tư tài sản ban đầu.
+- Nhóm đã khảo sát khách hàng và tiếp cận 17 shop cho thuê trang phục có tín hiệu sẵn sàng tham gia, tạo nền tảng ban đầu cho việc phát triển nguồn cung.
+- Định hướng thống nhất thông tin thanh toán và quy tắc đặt cọc có thể giúp giao dịch minh bạch, giảm lo ngại của khách hàng.
+Điểm yếu (Weaknesses)
+- Dự án chưa có pháp nhân và chưa hoàn thiện đầy đủ cơ sở vận hành để triển khai thương mại thực tế.
+- Hoạt động đối soát và quản lý giao dịch còn thực hiện thủ công, có nguy cơ phát sinh sai sót khi số lượng đơn hàng tăng.
+- Nhân sự nhóm chỉ gồm 4 thành viên, hạn chế khả năng đồng thời phát triển công nghệ, chăm sóc khách hàng và mở rộng mạng lưới đối tác.
+- Chưa có dữ liệu khảo sát đầy đủ về nhu cầu sử dụng lộ trình du lịch, trong khi đây là một trong những yếu tố thu hút người dùng của nền tảng.
+- Dữ liệu khách quốc tế còn hạn chế; 21 mẫu khảo sát bằng tiếng Anh chưa đủ đại diện cho các thị trường mục tiêu.
+Cơ hội (Opportunities)
+- Lượng khách du lịch nội địa và quốc tế đến Việt Nam tạo ra thị trường tiềm năng cho các dịch vụ tại điểm đến.
+- Nhu cầu chụp ảnh, check-in và trải nghiệm cá nhân hóa mở ra cơ hội phát triển dịch vụ thuê trang phục và nhiếp ảnh.
+- Thói quen tìm kiếm thông tin, tham khảo đánh giá và đặt dịch vụ trực tuyến ngày càng phổ biến.
+- Nhiều cơ sở kinh doanh địa phương vẫn tiếp cận khách hàng qua các kênh phân tán như fanpage và Zalo, tạo cơ hội để DealZ trở thành kênh kết nối tập trung.
+- Đà Nẵng – Hội An có hệ thống địa điểm tham quan và dịch vụ du lịch đa dạng, phù hợp để thử nghiệm mô hình kết hợp lộ trình với dịch vụ trải nghiệm.
+Thách thức (Threats)
+- Các OTA và nền tảng du lịch lớn có tiềm lực tài chính, thương hiệu và lượng người dùng lớn; họ có thể mở rộng thêm các dịch vụ trải nghiệm tại điểm đến.
+- Shop và nhà cung cấp có thể tiếp tục bán trực tiếp qua mạng xã hội để tránh chi phí hoa hồng, làm giảm động lực tham gia nền tảng.
+- Các quy định pháp luật liên quan đến thương mại điện tử, thanh toán, bảo vệ dữ liệu và quyền lợi người tiêu dùng đặt ra yêu cầu tuân thủ đối với DealZ.
+- Nhu cầu du lịch biến động theo mùa, thời tiết và các sự kiện, có thể ảnh hưởng đến lượng đơn hàng và khả năng cung cấp dịch vụ.
+- Chất lượng dịch vụ phụ thuộc vào đối tác địa phương; nếu người bán hủy đơn, cung cấp dịch vụ không đúng mô tả hoặc xử lý tiền cọc thiếu minh bạch, uy tín của DealZ có thể bị ảnh hưởng.
+
+5.1. Định hướng chiến lược từ phân tích SWOT
+Từ kết quả SWOT, nhóm xác định một số định hướng chiến lược nhằm tận dụng lợi thế và hạn chế rủi ro trong giai đoạn đầu:
+Chiến lược SO – Phát huy điểm mạnh để tận dụng cơ hội: Sử dụng lộ trình miễn phí làm công cụ thu hút người dùng, kết hợp giới thiệu dịch vụ thuê trang phục và chụp ảnh tại các địa điểm nổi bật ở Đà Nẵng – Hội An. Ưu tiên khai thác mạng lưới shop đã khảo sát để nhanh chóng hình thành nguồn cung ban đầu.
+Chiến lược WO – Khắc phục điểm yếu để tận dụng cơ hội: Tập trung khảo sát bổ sung nhu cầu sử dụng lộ trình, mở rộng mẫu khảo sát khách quốc tế và chuẩn hóa quy trình quản lý đơn hàng, lịch đặt, tiền cọc và đối soát. Tận dụng sự sẵn có của các đối tác địa phương để phát triển nguồn cung mà không cần đầu tư lớn vào tài sản.
+Chiến lược ST – Phát huy điểm mạnh để hạn chế thách thức: Tạo khác biệt bằng nội dung lộ trình chuyên sâu và khả năng kết hợp nhiều dịch vụ địa phương trong cùng một hành trình. Đồng thời, xây dựng quy trình đánh giá đối tác, công khai chính sách đặt cọc và hỗ trợ khách hàng nhằm tăng độ tin cậy.
+Chiến lược WT – Hạn chế điểm yếu và phòng tránh rủi ro: Giới hạn phạm vi triển khai tại Đà Nẵng – Hội An trong giai đoạn đầu, ưu tiên một số nhóm dịch vụ có khả năng kiểm soát chất lượng tốt. Hoàn thiện quy trình vận hành và yêu cầu pháp lý trước khi mở rộng quy mô, tránh phát triển quá nhanh khi nhân sự và hệ thống quản lý còn hạn chế.
+Tổng thể, SWOT cho thấy DealZ có cơ hội phát triển nhờ nhu cầu kết hợp tham quan, chụp ảnh và sử dụng dịch vụ tại điểm đến. Tuy nhiên, lợi thế cạnh tranh của dự án không nằm ở quy mô hay số lượng dịch vụ, mà ở khả năng kết nối các nhu cầu trong một hành trình thuận tiện, minh bạch và phù hợp với đặc điểm địa phương. Do đó, chiến lược phù hợp trong giai đoạn đầu là tập trung vào thị trường Đà Nẵng – Hội An, ưu tiên nhóm dịch vụ thuê trang phục và chụp ảnh, đồng thời từng bước hoàn thiện hệ thống quản lý giao dịch và chất lượng đối tác.
+VI. PHÂN TÍCH ĐỐI THỦ CẠNH TRANH
+1. Xác định đối thủ cạnh tranh
+DealZ hoạt động theo mô hình marketplace chuyên biệt, kết hợp nội dung lộ trình du lịch với các dịch vụ tại điểm đến như cho thuê trang phục, chụp ảnh, lưu trú và thuê xe máy. Vì vậy, đối thủ cạnh tranh của DealZ không chỉ là những nền tảng có mô hình tương tự mà còn bao gồm các đơn vị cung cấp dịch vụ riêng lẻ và những kênh đang được khách hàng sử dụng để tìm kiếm, đặt dịch vụ.
+Dựa trên đặc điểm hoạt động, nhóm phân chia đối thủ cạnh tranh thành bốn nhóm:
+1.1. Đối thủ cạnh tranh trực tiếp: Các shop cho thuê trang phục và nhà cung cấp dịch vụ địa phương
+Trong phạm vi Đà Nẵng – Hội An, nhóm chưa xác định được nền tảng địa phương nào tích hợp đầy đủ lộ trình du lịch, cho thuê trang phục, chụp ảnh, lưu trú và thuê xe máy trong cùng một hệ thống đặt dịch vụ. Do đó, đối thủ cạnh tranh trực tiếp hiện nay chủ yếu là các shop cho thuê trang phục, nhiếp ảnh gia, studio và nhà cung cấp dịch vụ địa phương đang tiếp cận khách hàng thông qua fanpage, Zalo hoặc các kênh cá nhân.
+Các đơn vị này có lợi thế về vị trí gần điểm du lịch, khả năng tư vấn trực tiếp và mức độ am hiểu nhu cầu tại địa phương. Khách hàng cũng có thể liên hệ trực tiếp để thương lượng giá hoặc lựa chọn dịch vụ theo yêu cầu.
+Tuy nhiên, hình thức kinh doanh phân tán khiến khách hàng phải tự tìm kiếm và liên hệ từng đơn vị. Việc so sánh giá, kiểm tra lịch trống, đánh giá chất lượng và kết hợp nhiều dịch vụ trong một hành trình còn mất thời gian. Đây là khoảng trống mà DealZ hướng đến giải quyết thông qua việc tập trung thông tin và kết nối các nhà cung cấp trên cùng một nền tảng.
+Nhóm cần tiếp tục khảo sát các website và nền tảng cho thuê trang phục trực tuyến tại Việt Nam để xác định mức độ cạnh tranh, phạm vi hoạt động, chính sách dành cho người bán và mức phí giao dịch. Hiện tại, chưa đủ dữ liệu để kết luận về mức phí hoặc thị phần của nhóm đối thủ này.
+1.2. Đối thủ cạnh tranh gián tiếp: Các nền tảng đặt dịch vụ du lịch trực tuyến (OTA)
+Các nền tảng như Traveloka, Trip.com, Klook, KKday và Agoda là những đối thủ cạnh tranh gián tiếp của DealZ. Đây là các nền tảng đã xây dựng được thương hiệu và hệ thống dịch vụ tương đối đa dạng, bao gồm lưu trú, vé tham quan, phương tiện di chuyển và các hoạt động trải nghiệm tại điểm đến.
+Điểm mạnh của nhóm đối thủ này:
+Có độ nhận diện thương hiệu và lượng người dùng lớn.
+Hỗ trợ nhiều phương thức thanh toán, trong đó có các phương thức dành cho khách quốc tế.
+Có hệ thống đánh giá, xác nhận đặt dịch vụ và hỗ trợ khách hàng tương đối hoàn thiện.
+Sở hữu mạng lưới đối tác và nguồn dịch vụ đa dạng ở nhiều địa điểm du lịch.
+Hạn chế so với định hướng của DealZ:
+Chưa tập trung vào nhu cầu kết hợp lộ trình tham quan với thuê trang phục và chụp ảnh theo từng địa điểm.
+Khách hàng có thể phải sử dụng nhiều nhà cung cấp hoặc nền tảng khác nhau để hoàn thiện một hành trình có nhiều nhu cầu riêng biệt.
+Các shop nhỏ cho thuê trang phục và nhà cung cấp dịch vụ địa phương có thể gặp khó khăn khi tiếp cận những nền tảng lớn do yêu cầu hợp tác và vận hành.
+Mặc dù vậy, DealZ không nên mặc định các OTA không có dịch vụ trải nghiệm địa phương hoặc không hợp tác với nhà cung cấp nhỏ. Đây là nhóm đối thủ có khả năng mở rộng danh mục dịch vụ trong tương lai, do đó cần được theo dõi thường xuyên.
+1.3. Đối thủ cạnh tranh về kênh phân phối: Các sàn thương mại điện tử đa ngành
+Shopee, TikTok Shop và Lazada là những nền tảng thương mại điện tử có khả năng tiếp cận lượng lớn người tiêu dùng. Các nền tảng này tạo ra môi trường thuận lợi để người bán quảng bá sản phẩm, tiếp cận khách hàng và triển khai hoạt động bán hàng trực tuyến.
+Điểm mạnh:
+Có lượng người dùng lớn và mức độ nhận diện cao.
+Hệ thống tìm kiếm, quảng cáo và đề xuất sản phẩm phát triển.
+Có nhiều công cụ hỗ trợ người bán tiếp cận khách hàng.
+Người tiêu dùng đã quen thuộc với quy trình mua sắm trên các nền tảng này.
+Hạn chế so với DealZ:
+Mô hình chủ yếu hướng đến giao dịch hàng hóa, chưa tập trung chuyên sâu vào dịch vụ thuê theo ngày và đặt lịch tại điểm đến.
+Chưa lấy lộ trình du lịch và nhu cầu trải nghiệm theo địa điểm làm nội dung cốt lõi.
+Việc kết hợp nhiều dịch vụ địa phương trong cùng một hành trình có thể chưa thuận tiện đối với khách du lịch.
+Vì vậy, DealZ không đặt mục tiêu cạnh tranh với các sàn đa ngành về quy mô hàng hóa hoặc lượng người dùng. Thay vào đó, nền tảng tập trung vào nhóm nhu cầu chuyên biệt, trong đó nội dung du lịch đóng vai trò kết nối khách hàng với các dịch vụ phù hợp.
+1.4. Đối thủ cạnh tranh về kênh tiếp cận: Mạng xã hội và các kênh truyền thống
+Facebook, Instagram, TikTok và Zalo là những kênh phổ biến để shop cho thuê trang phục, nhiếp ảnh gia và các cơ sở kinh doanh địa phương giới thiệu dịch vụ. Ngoài ra, khách du lịch còn có thể tìm kiếm nhà cung cấp thông qua giới thiệu từ bạn bè, khách sạn, hướng dẫn viên hoặc người dân địa phương.
+Điểm mạnh:
+Chi phí tiếp cận ban đầu thấp, dễ triển khai.
+Có khả năng lan truyền hình ảnh và video nhanh chóng.
+Người bán có thể trao đổi trực tiếp với khách hàng, tư vấn linh hoạt.
+Phù hợp với hành vi tìm kiếm cảm hứng du lịch và tham khảo trải nghiệm thực tế.
+Hạn chế so với DealZ:
+Thông tin dịch vụ phân tán trên nhiều tài khoản và trang cá nhân.
+Khách hàng khó so sánh giá, lịch trống và chính sách giữa các nhà cung cấp.
+Quy trình đặt chỗ, thanh toán và đối soát thường phụ thuộc vào từng người bán.
+Việc kiểm chứng chất lượng dịch vụ và xử lý tranh chấp có thể gặp khó khăn.
+DealZ có thể tận dụng mạng xã hội làm kênh truyền thông và thu hút người dùng, đồng thời hướng khách hàng đến nền tảng để tham khảo thông tin dịch vụ, chính sách và quy trình đặt chỗ tập trung hơn.
+1.5. Bảng tổng hợp đối thủ cạnh tranh
+Nhóm đối thủ
+Ví dụ
+Điểm mạnh
+Hạn chế so với định hướng DealZ
+Cạnh tranh trực tiếp
+Shop cho thuê trang phục, nhiếp ảnh gia, studio bán riêng
+Am hiểu địa phương, tư vấn trực tiếp, linh hoạt về giá và dịch vụ
+Thông tin phân tán, khó so sánh, khách phải liên hệ từng đơn vị
+Cạnh tranh gián tiếp
+Traveloka, Klook, KKday, Trip.com, Agoda
+Thương hiệu, lượng người dùng, hệ thống đặt dịch vụ và thanh toán
+Không tập trung vào tổ hợp lộ trình – trang phục – chụp ảnh theo định hướng của DealZ
+Sàn thương mại điện tử đa ngành
+Shopee, TikTok Shop, Lazada
+Quy mô lớn, khả năng tiếp cận khách hàng, công cụ quảng bá
+Chưa chuyên sâu về dịch vụ thuê theo ngày và trải nghiệm tại điểm đến
+Kênh mạng xã hội và truyền thống
+Facebook, Instagram, TikTok, Zalo, giới thiệu trực tiếp
+Dễ tiếp cận, chi phí ban đầu thấp, nội dung trực quan
+Thiếu hệ thống thông tin tập trung, quản lý lịch đặt và đối soát thống nhất
+
+2. Phân tích lợi thế cạnh tranh của DealZ
+Từ việc phân tích các nhóm đối thủ, DealZ xác định lợi thế cạnh tranh không nằm ở quy mô nền tảng hay số lượng dịch vụ, mà ở khả năng kết nối các nhu cầu có liên quan trong một hành trình du lịch. Cụ thể:
+2.1. Lộ trình du lịch gắn với nhu cầu chụp ảnh
+DealZ định hướng cung cấp các lộ trình du lịch miễn phí do đội ngũ biên tập, trong đó gợi ý địa điểm tham quan, thời gian di chuyển và trang phục phù hợp với từng điểm đến.
+Khác với việc tìm kiếm riêng lẻ từng dịch vụ, khách hàng có thể tham khảo lộ trình trước, sau đó lựa chọn trang phục hoặc dịch vụ chụp ảnh phù hợp với mục đích chuyến đi. Ví dụ, khách tham quan phố cổ Hội An có thể tham khảo lộ trình kết hợp thuê áo dài hoặc trang phục truyền thống và dịch vụ nhiếp ảnh.
+Đây là điểm khác biệt trong cách tiếp cận khách hàng của DealZ: sử dụng nội dung du lịch để khơi gợi nhu cầu, sau đó kết nối người dùng với các dịch vụ địa phương.
+2.2. Kết nối nhiều dịch vụ trong cùng một hành trình
+DealZ hướng đến việc tập trung các dịch vụ như thuê trang phục, chụp ảnh, lưu trú và thuê xe máy trên cùng một nền tảng. Nhờ đó, khách hàng có thể tìm kiếm và tham khảo các dịch vụ liên quan mà không phải tự tìm từng nhà cung cấp trên nhiều kênh khác nhau.
+Về lâu dài, nền tảng hướng đến trải nghiệm đặt nhiều dịch vụ thuận tiện trong cùng một quy trình. Tuy nhiên, khả năng thanh toán gộp và xử lý đơn hàng từ nhiều đối tác cần được kiểm nghiệm theo năng lực kỹ thuật và quy trình vận hành thực tế trước khi công bố là tính năng hoàn chỉnh.
+2.3. Minh bạch chính sách đặt cọc và hoàn tiền
+Tiền cọc là một trong những yếu tố ảnh hưởng đến mức độ tin tưởng của khách hàng khi thuê trang phục. Theo khảo sát của nhóm, khoảng 1/6 số người được khảo sát bày tỏ lo ngại về nguy cơ mất tiền cọc.
+DealZ định hướng xây dựng chính sách đặt cọc, hủy dịch vụ và hoàn tiền rõ ràng, được công khai trước khi khách xác nhận đặt chỗ. Các thông tin như mức cọc, thời gian hoàn cọc, điều kiện khấu trừ và trách nhiệm của các bên cần được thể hiện thống nhất.
+Đây là lợi thế cạnh tranh tiềm năng nếu DealZ có thể triển khai quy trình thanh toán, đối soát và giải quyết khiếu nại minh bạch. Cơ chế giữ tiền và hoàn tiền chỉ nên được mô tả là đã triển khai khi nền tảng có đủ điều kiện kỹ thuật, thỏa thuận với đối tác thanh toán và cơ sở pháp lý phù hợp.
+2.4. Tập trung vào đối tác nhỏ tại địa phương
+DealZ ưu tiên kết nối các shop cho thuê trang phục, nhiếp ảnh gia, studio và nhà cung cấp dịch vụ địa phương. Đây là nhóm đối tác có hiểu biết về thị trường bản địa nhưng có thể chưa có hệ thống quản lý và kênh tiếp cận khách hàng tập trung.
+Mô hình marketplace giúp các đối tác có thêm cơ hội giới thiệu dịch vụ đến khách du lịch mà không cần tự xây dựng một nền tảng riêng. DealZ dự kiến áp dụng cơ chế hoa hồng theo giao dịch thành công, với mức phí được đề xuất phù hợp theo từng nhóm dịch vụ.
+Mức hoa hồng cần được thỏa thuận và kiểm nghiệm với đối tác trước khi triển khai chính thức. Nhóm không nên khẳng định DealZ có mức phí thấp hơn OTA nếu chưa có dữ liệu đối chiếu cụ thể.
+2.5. Nội dung địa phương và khả năng phát triển hướng dẫn du lịch bằng tiếng Anh
+DealZ có thể xây dựng các bộ sưu tập lộ trình theo mùa, sự kiện và chủ đề trải nghiệm, chẳng hạn như lộ trình chụp ảnh tại Hội An, khám phá Đà Nẵng trong một ngày hoặc gợi ý trang phục theo từng địa điểm.
+Bên cạnh nội dung tiếng Việt, nền tảng định hướng phát triển bản tiếng Anh nhằm hỗ trợ khách quốc tế tìm hiểu điểm đến, quy tắc văn hóa và cách sử dụng dịch vụ địa phương.
+Việc phát triển nội dung chuyên sâu theo địa bàn có thể giúp DealZ tạo sự khác biệt so với các sàn thương mại điện tử đa ngành. Tuy nhiên, nội dung cần được cập nhật thường xuyên để bảo đảm tính chính xác và phù hợp với tình hình thực tế.
+Tóm lại, lợi thế cạnh tranh của DealZ nằm ở sự kết hợp giữa nội dung lộ trình, dịch vụ thuê trang phục và mạng lưới đối tác địa phương. Để chuyển những lợi thế tiềm năng này thành lợi thế thực tế, nhóm cần ưu tiên hoàn thiện nguồn cung, chính sách giao dịch, chất lượng dịch vụ và trải nghiệm đặt chỗ.
+VII. KẾ HOẠCH CHĂM SÓC KHÁCH HÀNG (CSKH)
+1. Mô hình trải nghiệm khách hàng (Customer Experience Pyramid)
+DealZ xây dựng trải nghiệm khách hàng theo năm giai đoạn, từ khi khách hàng biết đến nền tảng cho đến khi trở thành người giới thiệu dịch vụ cho người khác. Mô hình này giúp nhóm xác định hoạt động chăm sóc phù hợp ở từng điểm tiếp xúc trong hành trình khách hàng.
+Giai đoạn
+Mục tiêu
+Hoạt động của DealZ
+1. Nhận biết (Awareness)
+Giúp khách hàng biết đến DealZ khi tìm kiếm ý tưởng và thông tin cho chuyến đi
+Đăng tải lộ trình, lookbook trang phục và video trải nghiệm trên TikTok, Instagram; tối ưu nội dung tìm kiếm (SEO); đặt mã QR tại khách sạn, studio và cửa hàng đối tác
+2. Cân nhắc (Consideration)
+Giúp khách hàng đánh giá và lựa chọn dịch vụ phù hợp
+Cung cấp lộ trình chi tiết, hình ảnh thực tế, giá thuê, mức cọc, chính sách hủy và hoàn tiền; hiển thị đánh giá khách hàng; phát triển nội dung tiếng Anh
+3. Đặt dịch vụ (Purchase)
+Giúp khách hàng đặt dịch vụ thuận tiện và nắm rõ thông tin giao dịch
+Hỗ trợ quy trình đặt dịch vụ trên website, thanh toán qua phương thức được tích hợp như payOS, xác nhận đơn và gửi hướng dẫn nhận – trả dịch vụ qua email hoặc Zalo
+4. Quay lại (Retention)
+Duy trì mối quan hệ và khuyến khích khách hàng sử dụng dịch vụ trong những chuyến đi tiếp theo
+Gửi ưu đãi cho khách hàng cũ, giới thiệu lộ trình và điểm đến mới, thông báo nội dung theo mùa hoặc sự kiện phù hợp
+5. Ủng hộ (Advocacy)
+Khuyến khích khách hàng chia sẻ trải nghiệm tích cực và giới thiệu DealZ
+Mời khách hàng đánh giá dịch vụ, chia sẻ hình ảnh và trải nghiệm trên cộng đồng DealZ; triển khai chương trình giới thiệu bạn bè khi điều kiện vận hành cho phép
+
+Năm giai đoạn trên có mối liên hệ với nhau. Trải nghiệm tốt ở giai đoạn đặt dịch vụ và sử dụng dịch vụ sẽ góp phần tăng khả năng quay lại và giới thiệu nền tảng. Ngược lại, nếu khách gặp vấn đề về lịch đặt, tiền cọc hoặc chất lượng dịch vụ, hoạt động truyền thông ở giai đoạn nhận biết sẽ khó chuyển đổi thành sự tin tưởng lâu dài.
+Do đó, DealZ cần xem chăm sóc khách hàng là hoạt động xuyên suốt hành trình, không chỉ giới hạn ở việc giải đáp thắc mắc sau khi khách đặt dịch vụ.
+2. Mô hình quản trị quan hệ khách hàng (CRM) theo mô hình IDIC
+DealZ dự kiến áp dụng mô hình IDIC gồm bốn bước: Identify (xác định khách hàng), Differentiate (phân biệt khách hàng), Interact (tương tác với khách hàng) và Customize (cá biệt hóa trải nghiệm). Mô hình này giúp nền tảng hiểu rõ nhu cầu của từng nhóm khách, duy trì tương tác và từng bước cá nhân hóa dịch vụ.
+2.1. Xác định khách hàng mục tiêu (Identify)
+DealZ ghi nhận thông tin cần thiết từ các điểm tiếp xúc như website, biểu mẫu đặt dịch vụ, Zalo và đơn hàng. Những thông tin có thể được thu thập gồm:
+Điểm đến hoặc khu vực khách hàng quan tâm.
+Thời gian dự kiến đi du lịch và sử dụng dịch vụ.
+Số lượng người tham gia.
+Nhóm dịch vụ khách hàng quan tâm hoặc đã đặt.
+Lịch sử giao dịch và phản hồi về dịch vụ.
+Từ dữ liệu thu thập được, DealZ có thể nhận diện những nhóm khách hàng có giá trị tiềm năng, chẳng hạn khách đặt nhiều nhóm dịch vụ, khách thường xuyên quay lại hoặc khách có nhu cầu sử dụng dịch vụ theo nhóm.
+Việc thu thập và lưu trữ dữ liệu cần có mục đích rõ ràng, giới hạn trong phạm vi cần thiết và tuân thủ quy định về bảo vệ dữ liệu cá nhân.
+2.2. Phân biệt khách hàng theo nhu cầu và giá trị (Differentiate)
+Sau khi xác định khách hàng, DealZ tiến hành phân nhóm dựa trên nhu cầu sử dụng dịch vụ, hành vi đặt chỗ và giá trị giao dịch. Các nhóm khách hàng dự kiến gồm:
+Nhóm khách hàng
+Đặc điểm
+Nhu cầu chính
+Khách chỉ thuê trang phục
+Quan tâm chủ yếu đến mẫu mã, giá thuê và địa điểm nhận – trả
+Tìm kiếm trang phục phù hợp, giá rõ ràng, quy trình đặt cọc thuận tiện
+Khách đặt combo nhiều dịch vụ
+Có nhu cầu kết hợp trang phục, chụp ảnh, lưu trú hoặc di chuyển
+Tiết kiệm thời gian tìm kiếm, phối hợp lịch đặt và lựa chọn dịch vụ đồng bộ
+Khách quốc tế
+Có thể gặp rào cản về ngôn ngữ, thanh toán và thông tin địa phương
+Hướng dẫn bằng tiếng Anh, thông tin dễ hiểu, hỗ trợ trong quá trình sử dụng dịch vụ
+Khách địa phương
+Có thể sử dụng dịch vụ cho các dịp như dự tiệc, kỷ yếu hoặc sự kiện
+Thuê trang phục theo nhu cầu cụ thể, giá hợp lý và thời gian thuê linh hoạt
+Khách hàng quay lại
+Đã từng sử dụng dịch vụ và có dữ liệu giao dịch trước đó
+Ưu đãi khách quen, gợi ý dịch vụ mới và quy trình đặt nhanh hơn
+
+Việc phân nhóm giúp DealZ tránh áp dụng một cách chăm sóc giống nhau cho mọi khách hàng. Thay vào đó, nền tảng có thể ưu tiên nguồn lực cho từng nhóm theo nhu cầu và mức độ tương tác thực tế.
+2.3. Tương tác với khách hàng (Interact)
+DealZ sử dụng các kênh như Zalo, email và hệ thống hỗ trợ trên website để duy trì tương tác với khách hàng trước, trong và sau khi sử dụng dịch vụ.
+Các hoạt động chính bao gồm:
+Trước khi đặt: Giải đáp thắc mắc về lộ trình, mẫu trang phục, giá dịch vụ, lịch trống và chính sách đặt cọc.
+Sau khi đặt: Gửi xác nhận đơn hàng, thông tin đối tác, thời gian và địa điểm nhận dịch vụ.
+Trong quá trình sử dụng: Hướng dẫn khách nhận – trả trang phục, liên hệ nhà cung cấp và xử lý các vấn đề phát sinh.
+Sau khi sử dụng: Gửi lời cảm ơn, đề nghị đánh giá chất lượng dịch vụ và ghi nhận phản hồi để cải thiện nền tảng.
+Đối với khách quốc tế, DealZ định hướng hỗ trợ bằng tiếng Anh đối với các thông tin cơ bản như hướng dẫn đặt dịch vụ, thời gian nhận – trả và chính sách hoàn tiền.
+Các phản hồi của khách hàng cần được tổng hợp và phân loại theo vấn đề, chẳng hạn chất lượng trang phục, thái độ phục vụ, độ chính xác của thông tin, thời gian xác nhận và quy trình hoàn cọc. Đây là cơ sở để nhóm đánh giá chất lượng đối tác và điều chỉnh hoạt động vận hành.
+2.4. Cá biệt hóa trải nghiệm khách hàng (Customize)
+Dựa trên nhóm nhu cầu và lịch sử tương tác, DealZ định hướng cá nhân hóa nội dung và gợi ý dịch vụ cho từng đối tượng khách hàng.
+Một số ví dụ:
+Sinh viên và khách trẻ: Gợi ý combo chụp ảnh có mức giá phù hợp, lộ trình ngắn và các địa điểm check-in nổi bật.
+Cặp đôi: Gợi ý lộ trình tham quan kết hợp dịch vụ nhiếp ảnh, trang phục theo chủ đề và địa điểm lưu trú phù hợp.
+Khách quốc tế: Cung cấp lộ trình tiếng Anh, hướng dẫn văn hóa địa phương, thông tin di chuyển và quy trình sử dụng dịch vụ.
+Khách đi theo nhóm: Gợi ý dịch vụ thuê trang phục theo nhóm, phương tiện di chuyển và lịch trình có thể phối hợp giữa các thành viên.
+Khách hàng quay lại: Giới thiệu lộ trình mới, dịch vụ phù hợp với lịch sử sử dụng và ưu đãi dành cho khách hàng cũ.
+Trong giai đoạn đầu, việc cá nhân hóa có thể được thực hiện thông qua các nhóm nội dung và quy tắc gợi ý do đội ngũ xây dựng. Khi nền tảng có đủ dữ liệu giao dịch và năng lực công nghệ, DealZ có thể phát triển hệ thống đề xuất ứng dụng AI dựa trên sở thích, lịch sử đặt dịch vụ và đặc điểm chuyến đi.
+Như vậy, mô hình IDIC giúp DealZ từng bước xây dựng quan hệ lâu dài với khách hàng. Thông qua việc hiểu nhu cầu, phân nhóm, duy trì tương tác và cá nhân hóa trải nghiệm, nền tảng có thể cải thiện chất lượng dịch vụ, tăng mức độ hài lòng và khuyến khích khách hàng quay lại.
+VIII. KẾ HOẠCH MARKETING
+1. Phân tích bối cảnh và động lực khách hàng (Jobs To Be Done)
+Theo mô hình Jobs To Be Done (JTBD), khách hàng lựa chọn DealZ không chỉ để thuê trang phục hay đặt dịch vụ du lịch riêng lẻ, mà còn nhằm giải quyết những nhu cầu phát sinh trong quá trình chuẩn bị và trải nghiệm chuyến đi.
+Cụ thể, khách hàng sử dụng DealZ để thực hiện các công việc sau:
+Lên kế hoạch chuyến đi thuận tiện: Tìm kiếm và tổng hợp lịch trình, địa điểm tham quan, dịch vụ lưu trú, phương tiện và hoạt động trải nghiệm trên cùng một nền tảng, thay vì phải tra cứu từ nhiều nguồn khác nhau.
+Có hình ảnh đẹp trong chuyến du lịch: Tìm được trang phục phù hợp với điểm đến và phong cách chụp ảnh mà không cần mua mới những bộ đồ chỉ sử dụng một vài lần.
+Đảm bảo sự minh bạch và an tâm khi giao dịch: Biết trước chi phí, điều kiện thuê, quy định đặt cọc, hoàn cọc và trách nhiệm của các bên.
+Lưu giữ và chia sẻ trải nghiệm: Có những hình ảnh, kỷ niệm đẹp để chia sẻ trên mạng xã hội, đồng thời tham khảo và đóng góp đánh giá cho cộng đồng du lịch.
+Như vậy, giá trị DealZ hướng tới không chỉ nằm ở việc cung cấp dịch vụ thuê trang phục, mà còn ở khả năng kết nối các nhu cầu trong một chuyến đi thành trải nghiệm thuận tiện và đồng bộ.
+2. Chân dung khách hàng mục tiêu (Target Audience)
+Trong giai đoạn đầu, DealZ tập trung vào nhóm khách trẻ, cặp đôi và khách du lịch quốc tế đến Đà Nẵng – Hội An. Đây là những nhóm khách có nhu cầu trải nghiệm, chụp ảnh và sử dụng các dịch vụ du lịch tại điểm đến.
+Chân dung
+Đặc điểm
+Nhu cầu và mong muốn
+Linh, 21 tuổi – Sinh viên
+Đi Đà Nẵng – Hội An cùng nhóm bạn vào dịp hè, ngân sách hạn chế, thường sử dụng TikTok để tìm kiếm địa điểm du lịch.
+Combo chụp ảnh giá hợp lý, lộ trình ngắn, trang phục phù hợp và quy trình đặt dịch vụ nhanh trên điện thoại.
+Minh và Hà, 28 tuổi – Cặp đôi
+Đi nghỉ cuối tuần, mong muốn có bộ ảnh kỷ niệm đẹp và trải nghiệm thuận tiện.
+Kết hợp nhiếp ảnh gia, trang phục áo dài và dịch vụ lưu trú gần phố cổ trong cùng một kế hoạch.
+Ji-woo, 30 tuổi – Khách du lịch Hàn Quốc
+Đến Đà Nẵng, chưa thông thạo tiếng Việt, quan tâm đến sự an toàn khi giao dịch và không muốn phải để lại hộ chiếu.
+Lộ trình có thông tin tiếng Anh, phương thức thanh toán thuận tiện và chính sách đặt cọc rõ ràng, không yêu cầu giữ hộ chiếu.
+
+Các chân dung trên là hình mẫu khách hàng giả định được xây dựng dựa trên kết quả khảo sát ban đầu và nhận định của nhóm về hành vi du lịch. Đây chưa phải kết quả phân khúc từ dữ liệu giao dịch thực tế. Nhóm sẽ tiếp tục điều chỉnh chân dung khách hàng sau giai đoạn thí điểm, dựa trên thông tin về độ tuổi, nhu cầu, hành vi tìm kiếm và tỷ lệ chuyển đổi.
+3. Insight khách hàng và chiến lược tiếp cận
+Từ nhu cầu của các nhóm khách hàng mục tiêu, DealZ xác định ba insight chính và định hướng tiếp cận tương ứng:
+Insight 1 – Nhu cầu có hình ảnh đẹp nhưng ngại chuẩn bị: Khách trẻ quan tâm đến trang phục và bối cảnh chụp ảnh, nhưng thường gặp bất tiện khi phải tự tìm kiếm, liên hệ nhiều cửa hàng và sắp xếp lịch trình riêng lẻ.
+Chiến lược: Tích hợp gợi ý trang phục và dịch vụ chụp ảnh trực tiếp vào lộ trình du lịch, giúp khách dễ dàng lựa chọn và chuẩn bị chuyến đi.
+Insight 2 – Niềm tin đến từ trải nghiệm thực tế: Khách hàng có xu hướng tham khảo hình ảnh thật, đánh giá và chia sẻ của những người đã sử dụng dịch vụ trước khi đưa ra quyết định.
+Chiến lược: Xây dựng nội dung marketing dựa trên hình ảnh thực tế, video trải nghiệm, đánh giá khách hàng và câu chuyện từ các chuyến đi.
+Insight 3 – Lo ngại về rào cản ngôn ngữ và giao dịch: Khách quốc tế có thể e ngại khi sử dụng dịch vụ không quen thuộc, đặc biệt liên quan đến đặt cọc, thanh toán và việc cung cấp giấy tờ cá nhân.
+Chiến lược: Cung cấp thông tin dịch vụ bằng tiếng Anh, công khai chính sách đặt cọc và hoàn tiền, đồng thời làm rõ quy trình giao dịch và giấy tờ cần thiết. DealZ hướng tới nguyên tắc không giữ hộ chiếu của khách làm tài sản bảo đảm.
+4. Mục tiêu chiến dịch (Objectives)
+Trong giai đoạn thí điểm, DealZ xây dựng các mục tiêu marketing theo bốn nhóm: nhận biết thương hiệu, chuyển đổi khách hàng, phát triển mạng lưới đối tác và khuyến khích khách hàng chia sẻ trải nghiệm.
+Mục tiêu
+Chỉ số đánh giá (KPI)
+Mốc mục tiêu giả định
+Nhận biết thương hiệu
+Lượt truy cập website mỗi tháng
+Đạt 3.000 lượt vào cuối tháng 3/2027 và 10.000 lượt vào cuối tháng 9/2027.
+Chuyển đổi
+Tỷ lệ chuyển đổi từ lượt truy cập thành đơn hàng
+Khoảng 1% trong giai đoạn đầu, hướng tới 2,5% vào cuối giai đoạn thí điểm.
+Phát triển đối tác
+Số shop và đối tác dịch vụ tham gia nền tảng
+Đạt 8 đối tác vào tháng 3/2027 và 20 đối tác vào tháng 9/2027.
+Ủng hộ thương hiệu
+Tỷ lệ khách hàng chia sẻ hình ảnh hoặc để lại đánh giá
+Đạt tối thiểu 20% tổng số đơn hàng.
+
+Các chỉ tiêu trên là mục tiêu dự kiến do nhóm đề xuất, chưa được xác lập từ dữ liệu vận hành thực tế. Trong quá trình triển khai, nhóm sẽ theo dõi kết quả theo tháng để đánh giá mức độ phù hợp và điều chỉnh KPI theo ngân sách, lưu lượng truy cập, số lượng đơn hàng và năng lực phục vụ của đối tác.
+5. Kế hoạch truyền thông tích hợp (IMC Plan)
+DealZ triển khai truyền thông tích hợp (Integrated Marketing Communications – IMC) nhằm đảm bảo thông điệp thương hiệu được truyền tải nhất quán trên các kênh trực tuyến và tại điểm đến. Nội dung truyền thông tập trung vào ba giá trị chính: lộ trình thuận tiện, trải nghiệm chụp ảnh và giao dịch minh bạch.
+Kênh truyền thông
+Hoạt động triển khai
+Mục tiêu
+TikTok, Instagram Reels
+Sản xuất video lộ trình ngắn, lookbook trang phục theo từng địa điểm, video hậu trường chụp ảnh và trải nghiệm combo.
+Tăng nhận biết thương hiệu, tiếp cận nhóm khách trẻ và thu hút lượt truy cập website.
+SEO website
+Xây dựng bài viết về lịch trình theo điểm đến, mùa du lịch và nhu cầu trải nghiệm; tối ưu các từ khóa như “lịch trình Đà Nẵng Hội An 3 ngày”.
+Thu hút lưu lượng truy cập tự nhiên và tạo nguồn khách hàng dài hạn.
+Facebook và các nhóm review du lịch
+Chia sẻ cẩm nang, lịch trình mẫu, thông tin dịch vụ, giải đáp thắc mắc và triển khai ưu đãi trong giai đoạn ra mắt.
+Tăng mức độ cân nhắc, tương tác và niềm tin của khách hàng.
+KOC du lịch
+Hợp tác với các nhà sáng tạo nội dung phù hợp để trải nghiệm combo, chia sẻ đánh giá thực tế và công khai nội dung hợp tác quảng cáo.
+Tăng độ tin cậy và mở rộng khả năng tiếp cận khách hàng mục tiêu.
+Mã QR tại đối tác
+Đặt mã QR tại khách sạn, homestay, studio và cửa hàng cho thuê trang phục, dẫn khách đến website hoặc lộ trình phù hợp.
+Tiếp cận khách ngay tại điểm đến và hỗ trợ chuyển đổi thành đơn hàng.
+Trường đại học và câu lạc bộ
+Phối hợp giới thiệu combo chụp ảnh kỷ yếu, trải nghiệm nhóm và ưu đãi dành cho sinh viên.
+Tiếp cận nhóm khách trẻ, sinh viên và khách hàng tại địa phương.
+
+Để tối ưu hiệu quả, DealZ ưu tiên các kênh có chi phí triển khai phù hợp với nguồn lực của nhóm trong giai đoạn đầu. Nội dung trên mạng xã hội sẽ đóng vai trò tạo nhu cầu và thu hút khách hàng; website là nơi cung cấp thông tin chi tiết và hỗ trợ đặt dịch vụ; mã QR tại đối tác giúp kết nối hoạt động truyền thông trực tuyến với trải nghiệm thực tế tại điểm đến.
+6. Chiến lược phát triển người bán và đối tác (Seller Strategy)
+Bên cạnh việc thu hút khách hàng, DealZ cần xây dựng nguồn cung dịch vụ đủ đa dạng và đáng tin cậy để đảm bảo chất lượng trải nghiệm. Chiến lược phát triển người bán được triển khai theo ba hoạt động chính:
+Tuyển chọn đối tác (Seller Acquisition): Nhóm tiếp cận trực tiếp các cửa hàng cho thuê trang phục, nhiếp ảnh gia và đơn vị cung cấp dịch vụ du lịch tại Đà Nẵng – Hội An. Trong giai đoạn đầu, DealZ ưu tiên khai thác mạng lưới 17 shop trang phục đã khảo sát, đồng thời mở rộng sang các nhóm dịch vụ bổ trợ. Mục tiêu là xây dựng mạng lưới khoảng 20 đối tác trước khi xem xét mở rộng sang điểm đến mới.
+Thu hút và hỗ trợ đối tác (Seller Activation): DealZ áp dụng mô hình thu hoa hồng khi phát sinh đơn hàng, giúp giảm áp lực chi phí tham gia ban đầu cho người bán. Nền tảng hỗ trợ đối tác giới thiệu dịch vụ trong các lộ trình và combo phù hợp, đồng thời hỗ trợ chụp ảnh sản phẩm, chuẩn hóa thông tin và đăng tải nội dung giới thiệu trong giai đoạn đầu.
+Duy trì và phát triển đối tác (Seller Retention): DealZ chú trọng minh bạch thông tin đơn hàng, doanh thu và quy trình đối soát; thực hiện đối soát đúng thời hạn theo thỏa thuận với đối tác. Nhóm cũng duy trì đầu mối hỗ trợ riêng để tiếp nhận phản hồi, xử lý vấn đề phát sinh và đề xuất chương trình khuyến khích dành cho những đối tác có chất lượng dịch vụ và mức độ hài lòng của khách hàng tốt.
+Thông qua chiến lược này, DealZ hướng tới xây dựng mạng lưới đối tác ổn định, trong đó nền tảng hỗ trợ người bán tiếp cận khách hàng mới, còn đối tác góp phần đa dạng hóa dịch vụ và nâng cao chất lượng trải nghiệm du lịch.
+IX. GIẢI PHÁP CÔNG NGHỆ VÀ TRIỂN KHAI DỰ ÁN
+1. Nền tảng công nghệ cơ sở
+1.1. Cơ sở lựa chọn nền tảng và phương pháp tiếp cận
+Trong giai đoạn đầu, DealZ lựa chọn xây dựng website trên nền tảng WordPress kết hợp WooCommerce và Dokan, sử dụng plugin hỗ trợ đặt thuê theo ngày, tích hợp cổng thanh toán payOS và dịch vụ hosting. Đây là phương án phù hợp với mô hình sàn kết nối nhiều người bán của DealZ, đồng thời giúp tiết kiệm chi phí và thời gian phát triển so với việc lập trình một hệ thống hoàn toàn mới.
+Việc lựa chọn nền tảng dựa trên các tiêu chí sau:
+Phù hợp với nguồn lực tài chính và nhân sự: WordPress là nền tảng mã nguồn mở, có hệ sinh thái giao diện và plugin đa dạng. Việc tận dụng các công cụ có sẵn giúp giảm khối lượng lập trình ban đầu, phù hợp với nhóm dự án gồm 4 thành viên và ngân sách còn hạn chế.
+Hỗ trợ mô hình nhiều người bán: WooCommerce cung cấp các chức năng quản lý sản phẩm và đơn hàng; Dokan hỗ trợ tạo gian hàng riêng cho từng đối tác, quản lý sản phẩm và theo dõi đơn hàng. Khi kết hợp với plugin đặt thuê tương thích, hệ thống có thể hỗ trợ quản lý thời gian thuê và tình trạng còn hàng.
+Phù hợp với định hướng phát triển nội dung: WordPress hỗ trợ quản lý bài viết, trang điểm đến và tối ưu công cụ tìm kiếm (SEO). Điều này phù hợp với chiến lược sử dụng lộ trình du lịch và cẩm nang miễn phí để thu hút khách hàng.
+Có khả năng mở rộng từng bước: Nhóm áp dụng phương pháp phát triển sản phẩm khả dụng tối thiểu (Minimum Viable Product – MVP), ưu tiên các chức năng thiết yếu trước, sau đó bổ sung tính năng dựa trên kết quả vận hành và phản hồi thực tế.
+Bên cạnh ưu điểm, phương án này cũng có một số hạn chế. Khả năng quản lý lịch thuê, đơn hàng và hoa hồng phụ thuộc vào mức độ tương thích giữa Dokan với plugin cho thuê được lựa chọn. Một số quy trình như đối soát doanh thu, hoàn cọc và thanh toán cho đối tác có thể phải xử lý thủ công trong giai đoạn đầu. Ngoài ra, việc cập nhật plugin cần được kiểm tra để hạn chế lỗi hoặc xung đột hệ thống.
+Vì vậy, DealZ ưu tiên lựa chọn các plugin có khả năng tương thích và được kiểm thử trước khi đưa vào sử dụng. Nhóm không phát triển đồng loạt các chức năng phức tạp mà tập trung xây dựng một website có thể giới thiệu dịch vụ, tiếp nhận đơn đặt thuê và hỗ trợ quản lý giao dịch trong phạm vi thí điểm.
+1.2. Quy trình triển khai hệ thống
+Quá trình xây dựng nền tảng DealZ dự kiến được thực hiện theo các bước:
+Thiết lập nền tảng: Đăng ký tên miền, hosting và cài đặt WordPress, WooCommerce, Dokan cùng giao diện website.
+Cài đặt chức năng đặt thuê: Lựa chọn và cấu hình plugin hỗ trợ thuê theo ngày; kiểm tra khả năng quản lý thời gian thuê, lịch trống và đơn hàng khi kết hợp với Dokan.
+Thiết lập quy trình giao dịch: Cấu hình phương thức thanh toán nội địa qua payOS nếu đáp ứng điều kiện tích hợp; xây dựng quy trình xác nhận đơn, thu tiền thuê, xử lý tiền đặt cọc, hủy đơn và hoàn tiền.
+Xây dựng nội dung: Thiết kế các trang điểm đến, lộ trình theo ngày, bài viết hướng dẫn và nội dung gợi ý kết hợp địa điểm với trang phục.
+Đăng tải sản phẩm và dịch vụ: Tiếp nhận thông tin từ các shop đối tác, chuẩn hóa hình ảnh, mô tả, bảng kích cỡ, giá thuê, tiền đặt cọc và lịch nhận – trả sản phẩm.
+Kiểm thử hệ thống: Thực hiện đơn hàng thử nghiệm từ bước tìm kiếm, đặt thuê, xác nhận, thanh toán đến hoàn tất đơn; kiểm tra các trường hợp hủy đơn, thay đổi lịch và phát sinh vấn đề.
+Vận hành thí điểm: Triển khai với một nhóm đối tác ban đầu, theo dõi hoạt động đặt thuê, hỗ trợ xử lý giao dịch và đối soát thủ công khi cần thiết. Sau đó, nhóm thu thập phản hồi để điều chỉnh hệ thống trước khi mở rộng.
+2. Thiết kế giao diện và trải nghiệm người dùng
+2.1. Giao diện người mua (Buyer Interface)
+Giao diện người mua được thiết kế theo hướng đơn giản, trực quan và ưu tiên khả năng sử dụng trên điện thoại di động. Các khu vực chính bao gồm:
+Trang chủ: Giới thiệu nền tảng và hỗ trợ khách hàng tìm kiếm theo điểm đến, thời gian chuyến đi thông qua câu hỏi gợi mở như “Đi đâu, mấy ngày?”.
+Trang điểm đến: Cung cấp thông tin về địa điểm tham quan, lộ trình theo ngày, gợi ý trang phục và các dịch vụ liên quan.
+Trang sản phẩm và dịch vụ: Hiển thị hình ảnh, mô tả, giá thuê, lịch trống, điều kiện sử dụng và thông tin của đối tác cung cấp.
+Trang combo trải nghiệm: Giới thiệu các gợi ý kết hợp địa điểm tham quan, trang phục và dịch vụ chụp ảnh. Trong giai đoạn đầu, combo chủ yếu đóng vai trò gợi ý lựa chọn; khách hàng có thể đặt từng dịch vụ theo khả năng đáp ứng của hệ thống và đối tác.
+Giỏ hàng và đặt dịch vụ: Hỗ trợ khách hàng kiểm tra các sản phẩm đã lựa chọn. Việc đặt nhiều loại dịch vụ trong cùng một giao dịch chỉ triển khai khi hệ thống đáp ứng được yêu cầu về lịch đặt, thanh toán và xác nhận của từng đối tác. Trước mắt, DealZ ưu tiên quy trình đặt từng dịch vụ hoặc tiếp nhận yêu cầu đặt combo để nhóm vận hành phối hợp xác nhận.
+Trang thanh toán: Hiển thị rõ giá thuê, tiền đặt cọc, tổng số tiền cần thanh toán và chính sách hủy, hoàn tiền trước khi khách xác nhận đơn.
+Trang theo dõi đơn hàng: Cung cấp thông tin về trạng thái đơn, thời gian thuê, địa điểm nhận – trả và thông tin liên hệ cần thiết.
+Chuyển đổi ngôn ngữ: Xây dựng nội dung tiếng Việt và từng bước bổ sung tiếng Anh để phục vụ khách quốc tế.
+2.2. Giao diện quản trị của người bán (Seller Dashboard)
+Giao diện người bán được định hướng nhằm hỗ trợ các shop và đối tác quản lý thông tin dịch vụ, đơn đặt thuê và tình trạng giao nhận. Các chức năng dự kiến gồm:
+Quản lý sản phẩm và dịch vụ: Đối tác cung cấp thông tin sản phẩm gồm hình ảnh thật, mô tả, bảng kích cỡ, giá thuê, giá trị bộ trang phục và thời gian có thể cho thuê. Nhóm vận hành hỗ trợ kiểm tra, chuẩn hóa thông tin trước khi hiển thị.
+Quản lý đơn hàng: Người bán theo dõi yêu cầu đặt thuê, xác nhận khả năng cung cấp dịch vụ và cập nhật trạng thái giao – nhận. Đối với trường hợp sản phẩm bị hư hỏng, người bán ghi nhận tình trạng và hình ảnh làm căn cứ đối chiếu.
+Theo dõi doanh thu và đối soát: Người bán được cung cấp thông tin về đơn hàng, doanh thu và khoản hoa hồng theo thỏa thuận. Trong giai đoạn đầu, nhóm DealZ có thể tổng hợp báo cáo và thực hiện đối soát thủ công thay vì triển khai ngay chức năng rút tiền tự động trên hệ thống.
+Các chức năng quản lý lịch thuê, đơn hàng và doanh thu sẽ được cấu hình theo khả năng thực tế của Dokan và plugin được lựa chọn. Nhóm chỉ đưa các chức năng đã kiểm thử thành công vào vận hành chính thức.
+2.3. Tích hợp mạng xã hội và công cụ đo lường
+Để hỗ trợ hoạt động marketing và tăng khả năng tiếp cận khách hàng, DealZ dự kiến tích hợp một số công cụ truyền thông và phân tích dữ liệu:
+Chia sẻ nội dung: Bổ sung chức năng chia sẻ lộ trình và hình ảnh trải nghiệm lên Facebook, Instagram và các nền tảng phù hợp.
+Kênh liên hệ: Tích hợp nút liên hệ qua Zalo để khách hàng trao đổi với nhóm vận hành khi cần tư vấn hoặc hỗ trợ đặt dịch vụ.
+Nội dung đa phương tiện: Sử dụng video lookbook, hình ảnh trang phục và video giới thiệu điểm đến để tăng tính trực quan cho website.
+Đo lường hiệu quả: Sử dụng Google Analytics để theo dõi lượt truy cập và hành vi người dùng; cân nhắc tích hợp Meta Pixel để đánh giá hiệu quả quảng cáo và hoạt động chuyển đổi.
+Đăng nhập nhanh: Có thể nghiên cứu tích hợp đăng nhập bằng Google hoặc Facebook khi website đã hoàn thiện các chức năng cơ bản.
+Các công cụ trên được triển khai theo mức độ ưu tiên và khả năng kỹ thuật của nhóm. Việc thu thập dữ liệu người dùng cần có thông báo phù hợp và tuân thủ các yêu cầu về quyền riêng tư.
+X. TẦM NHÌN DÀI HẠN VÀ CHIẾN LƯỢC PHÁT TRIỂN NÂNG CAO
+1. Chiến lược tài chính
+Trong giai đoạn đầu, DealZ tập trung vào nguồn doanh thu từ hoa hồng trên các giao dịch thành công giữa khách hàng và đối tác. Mô hình này giúp nền tảng hạn chế chi phí cố định, đồng thời giảm rào cản tham gia đối với các cửa hàng cho thuê trang phục và đơn vị cung cấp dịch vụ quy mô nhỏ.
+Khi lượng truy cập và số lượng giao dịch đạt mức ổn định, DealZ có thể mở rộng nguồn doanh thu thông qua các hình thức sau:
+Gói hiển thị ưu tiên: Cung cấp vị trí giới thiệu nổi bật cho các đối tác có nhu cầu tăng khả năng tiếp cận khách hàng.
+Nội dung tài trợ: Hợp tác với khách sạn, homestay và đơn vị du lịch để sản xuất nội dung giới thiệu dịch vụ hoặc điểm đến. Các nội dung được tài trợ cần được công khai nhằm đảm bảo tính minh bạch.
+Chương trình hợp tác thương mại: Phát triển các chương trình liên kết với đơn vị lưu trú, vận chuyển và trải nghiệm địa phương nhằm đa dạng hóa nguồn doanh thu.
+Sau khi có dữ liệu vận hành đủ tin cậy, nhóm sẽ đánh giá các chỉ số như số lượng đơn hàng, tỷ lệ chuyển đổi, doanh thu hoa hồng, tỷ lệ khách quay lại và chi phí thu hút khách hàng. Trên cơ sở đó, DealZ cân nhắc phương án huy động vốn để mở rộng sang các điểm đến mới và nâng cấp công nghệ. Việc huy động vốn chỉ được xem xét khi mô hình thí điểm chứng minh được khả năng vận hành và tiềm năng phát triển.
+2. Chiến lược logistics
+Trong giai đoạn đầu, DealZ ưu tiên phương thức khách hàng trực tiếp nhận và trả trang phục tại cửa hàng đối tác. Đây là giải pháp phù hợp với quy mô thí điểm vì giúp giảm chi phí giao nhận, hạn chế rủi ro vận chuyển và cho phép khách kiểm tra tình trạng sản phẩm trước khi sử dụng.
+Khi số lượng đơn hàng tăng lên, DealZ có thể nghiên cứu mở rộng dịch vụ giao nhận tại khách sạn hoặc địa điểm lưu trú của khách hàng.
+Phương án triển khai dự kiến gồm:
+Hợp tác với đơn vị giao nhận: Liên kết với đơn vị vận chuyển để thực hiện giao và nhận trang phục theo yêu cầu của khách hàng.
+Phối hợp với cơ sở lưu trú: Nghiên cứu thỏa thuận với khách sạn hoặc homestay để sử dụng làm điểm nhận và trả trang phục khi đáp ứng điều kiện vận hành.
+Phân bổ chi phí: Phí giao nhận được thông báo rõ cho khách hàng; chi phí thanh toán cho đơn vị vận chuyển hoặc đối tác liên quan được xác định theo thỏa thuận.
+Kiểm soát tình trạng sản phẩm: Xây dựng quy trình kiểm tra trang phục trước khi giao và sau khi nhận lại. Hình ảnh xác nhận được lưu giữ để làm căn cứ xử lý các trường hợp hư hỏng hoặc tranh chấp.
+Việc mở rộng logistics chỉ được thực hiện khi DealZ có đủ lượng đơn hàng, đối tác vận chuyển phù hợp và quy trình kiểm soát chất lượng rõ ràng. Trong thời gian đầu, nhóm không tự xây dựng đội ngũ giao nhận riêng để tránh làm tăng chi phí vận hành.
+3. Lộ trình phát triển công nghệ chuyên sâu
+DealZ định hướng phát triển công nghệ theo từng giai đoạn, căn cứ vào mức độ tăng trưởng của nền tảng, nhu cầu khách hàng và khả năng tài chính.
+Giai đoạn
+Định hướng nâng cấp
+Giai đoạn MVP
+Hoàn thiện website, đăng tải sản phẩm, tiếp nhận đơn đặt thuê, quản lý thông tin đối tác và hỗ trợ quy trình thanh toán, xác nhận đơn.
+Sau MVP
+Chuẩn hóa báo cáo đơn hàng và doanh thu; bán tự động hóa đối soát; bổ sung chức năng nhắc lịch thuê và trả đồ qua email hoặc Zalo.
+Giai đoạn Pilot
+Hoàn thiện trang quản lý đối tác; phát triển hệ thống gợi ý dựa trên bộ quy tắc về điểm đến, mùa du lịch và ngân sách; tối ưu quy trình đặt dịch vụ.
+Giai đoạn mở rộng
+Nghiên cứu tích hợp thanh toán thẻ quốc tế, hoàn thiện phiên bản tiếng Anh và thử nghiệm AI gợi ý lộ trình, phối đồ.
+Giai đoạn tăng trưởng
+Phát triển bản đồ tương tác, tìm kiếm trang phục bằng hình ảnh và cân nhắc xây dựng ứng dụng di động khi quy mô người dùng đủ lớn.
+
+Việc nâng cấp công nghệ không được thực hiện chỉ nhằm bổ sung tính năng mới mà phải gắn với nhu cầu thực tế và hiệu quả đầu tư. Những chức năng có chi phí cao hoặc yêu cầu dữ liệu lớn sẽ được ưu tiên ở giai đoạn sau.
+4. Ứng dụng trí tuệ nhân tạo trong hỗ trợ khách hàng và vận hành
+4.1. Nhu cầu thực tế
+Khi số lượng điểm đến, sản phẩm và đối tác tăng lên, việc xây dựng thủ công từng lộ trình cho từng nhóm khách hàng sẽ tốn nhiều thời gian và khó mở rộng. Trong khi đó, khách hàng thường có nhu cầu nhận được gợi ý phù hợp với thời gian chuyến đi, địa điểm, sở thích, ngân sách và loại hình trải nghiệm mong muốn.
+Do đó, DealZ định hướng ứng dụng trí tuệ nhân tạo (AI) để hỗ trợ cá nhân hóa trải nghiệm và nâng cao hiệu quả vận hành, tập trung vào các nhu cầu:
+Gợi ý lộ trình dựa trên thời gian chuyến đi, điểm đến, sở thích và ngân sách của khách.
+Đề xuất trang phục và dịch vụ chụp ảnh phù hợp với địa điểm, phong cách và nhu cầu trải nghiệm.
+Hỗ trợ tìm kiếm dịch vụ dựa trên thông tin sản phẩm và lịch trống đã được đối tác cập nhật.
+Trả lời các câu hỏi thường gặp về cách đặt dịch vụ, chính sách thuê, đặt cọc, hủy và hoàn tiền.
+4.2. Phương pháp kỹ thuật và công cụ lựa chọn
+Trong giai đoạn đầu, DealZ chưa triển khai mô hình AI phức tạp mà ưu tiên sử dụng hệ thống gợi ý dựa trên bộ quy tắc được thiết lập sẵn. Ví dụ, hệ thống kết hợp các tiêu chí như điểm đến, mùa du lịch, thời gian chuyến đi và ngân sách để đề xuất những lộ trình, trang phục và combo đã được nhóm biên tập.
+Khi dữ liệu sản phẩm và nhu cầu người dùng đủ lớn, DealZ có thể nghiên cứu tích hợp mô hình ngôn ngữ lớn (Large Language Model – LLM) thông qua API của các nhà cung cấp như Claude API hoặc các dịch vụ tương đương.
+Quy trình hoạt động dự kiến gồm:
+Khách hàng nhập thông tin chuyến đi, bao gồm thời gian, điểm đến, ngân sách và sở thích.
+Hệ thống truy xuất dữ liệu lộ trình, sản phẩm và thông tin lịch trống đã được đối tác cập nhật.
+Mô hình AI xử lý thông tin đầu vào và đề xuất lộ trình hoặc combo phù hợp.
+Hệ thống kiểm tra đề xuất dựa trên dữ liệu dịch vụ thực tế, tránh giới thiệu sản phẩm không còn khả năng cung cấp.
+Trong giai đoạn đầu, nội dung do AI tạo ra cần được biên tập viên kiểm tra trước khi hiển thị chính thức.
+Đối với chatbot hỗ trợ khách hàng, DealZ có thể sử dụng dữ liệu hỏi đáp đã được chuẩn hóa về giá thuê, quy trình đặt dịch vụ và chính sách giao dịch. Các vấn đề liên quan đến hoàn tiền, tranh chấp hoặc khiếu nại sẽ được chuyển đến nhân sự phụ trách thay vì để AI tự đưa ra quyết định.
+Việc lựa chọn công cụ và chi phí triển khai cụ thể sẽ được xác định sau khi nhóm đánh giá ngân sách, khả năng tích hợp và nhu cầu thực tế. AI là định hướng nâng cấp dài hạn, không phải chức năng bắt buộc trong phiên bản MVP.
+5. Định vị số và bản đồ tương tác
+5.1. Nhu cầu thực tế
+Trong chuyến du lịch, khoảng cách giữa các điểm tham quan, cửa hàng cho thuê trang phục, studio chụp ảnh và nơi lưu trú ảnh hưởng trực tiếp đến thời gian cũng như chi phí di chuyển của khách hàng.
+Vì vậy, DealZ định hướng tích hợp bản đồ tương tác để khách hàng có thể quan sát vị trí các dịch vụ trong lộ trình, lựa chọn những địa điểm thuận tiện và chủ động sắp xếp thời gian di chuyển.
+5.2. Phương pháp kỹ thuật và công cụ lựa chọn
+DealZ dự kiến sử dụng dịch vụ bản đồ như Google Maps hoặc OpenStreetMap thông qua plugin hoặc công cụ tích hợp phù hợp với WordPress.
+Các chức năng định hướng gồm:
+Hiển thị vị trí của điểm tham quan, cửa hàng cho thuê trang phục, studio và cơ sở lưu trú.
+Gắn tọa độ và thông tin cơ bản của từng đối tác trên bản đồ.
+Hỗ trợ lọc địa điểm theo nhóm dịch vụ.
+Giúp khách hàng quan sát khoảng cách tương đối giữa các điểm trong lộ trình.
+Cung cấp liên kết chỉ đường thông qua dịch vụ bản đồ tương ứng.
+Trong giai đoạn đầu, DealZ chỉ cần hiển thị vị trí và thông tin cơ bản của các địa điểm. Những chức năng nâng cao như tối ưu tuyến đường hoặc tự động sắp xếp lịch trình sẽ được xem xét khi nền tảng có đủ dữ liệu.
+Việc lựa chọn dịch vụ bản đồ căn cứ vào chi phí sử dụng, giới hạn truy cập, khả năng tích hợp và độ chính xác dữ liệu tại khu vực Đà Nẵng – Hội An. Nhóm ưu tiên sử dụng plugin hoặc giải pháp có sẵn thay vì tự phát triển hệ thống bản đồ từ đầu.
+6. Công nghệ AI nhận diện hình ảnh (Visual Search) – Định hướng phát triển
+6.1. Nhu cầu thực tế
+Khách hàng thường lưu lại hình ảnh trang phục mẫu từ mạng xã hội hoặc các nguồn tham khảo và mong muốn tìm được sản phẩm có kiểu dáng, màu sắc hoặc phong cách tương tự.
+Tuy nhiên, việc mô tả chính xác trang phục bằng từ khóa đôi khi không dễ dàng, đặc biệt đối với những đặc điểm như họa tiết, chất liệu và phom dáng. Vì vậy, tìm kiếm bằng hình ảnh (Visual Search) có thể giúp khách hàng lựa chọn trang phục thuận tiện hơn.
+6.2. Phương pháp kỹ thuật và công cụ lựa chọn dự kiến
+DealZ định hướng nghiên cứu tính năng tìm kiếm bằng hình ảnh thông qua các mô hình thị giác máy tính có sẵn hoặc dịch vụ API chuyên biệt.
+Quy trình dự kiến gồm:
+Khách hàng tải lên hình ảnh trang phục mẫu mà mình muốn tìm kiếm.
+Hệ thống sử dụng mô hình nhận diện hình ảnh để phân tích các đặc trưng như màu sắc, kiểu dáng, họa tiết và phong cách.
+Các đặc trưng được đối chiếu với dữ liệu hình ảnh sản phẩm đã đăng tải trên DealZ.
+Hệ thống trả về danh sách trang phục có mức độ tương đồng để khách hàng tham khảo và lựa chọn.
+Để triển khai chức năng này, DealZ cần xây dựng kho hình ảnh sản phẩm đủ lớn, có chất lượng tương đối đồng đều và được phân loại theo các thuộc tính phù hợp. Bên cạnh đó, nhóm cần đánh giá chi phí xử lý hình ảnh, khả năng tích hợp và yêu cầu bảo vệ dữ liệu hình ảnh do khách hàng tải lên.
+Vì vậy, Visual Search chỉ được xem xét ở giai đoạn tăng trưởng, sau khi nền tảng đã tích lũy được số lượng sản phẩm và dữ liệu hình ảnh cần thiết. Đây là tính năng nâng cao nhằm cải thiện trải nghiệm tìm kiếm, không thuộc phạm vi triển khai ban đầu của dự án.
+XI. LỘ TRÌNH TRIỂN KHAI VÀ KẾ HOẠCH HÀNH ĐỘNG (IMPLEMENTATION ROADMAP)
+Nhóm thực hiện dự án gồm 4 thành viên. Để đảm bảo tiến độ và tránh chồng chéo công việc, nhóm dự kiến phân chia nhiệm vụ theo các mảng chính như sau:
+Thành viên
+Vai trò phụ trách
+Nhiệm vụ chính
+Đinh Đức Hiếu
+Trưởng nhóm – Quản lý và lập kế hoạch
+Điều phối hoạt động chung của dự án; xây dựng kế hoạch và phân công công việc; theo dõi tiến độ, KPI; quản lý định hướng phát triển, tổng hợp kết quả và đưa ra quyết định trong quá trình triển khai.
+Đặng Huỳnh Thảo Trinh
+Hỗ trợ vận hành và hành chính
+Hỗ trợ tổng hợp tài liệu, ghi nhận tiến độ công việc; chuẩn bị nội dung họp, quản lý hồ sơ dự án; hỗ trợ liên hệ, sắp xếp lịch làm việc với đối tác và thực hiện các công việc hành chính khác.
+Lê Thị Khánh Nhi
+Phụ trách công nghệ
+Xây dựng và quản lý website; cấu hình WordPress, WooCommerce và các plugin; kiểm thử chức năng đặt thuê, thanh toán; theo dõi và xử lý các vấn đề kỹ thuật.
+Đỗ Định Nghi
+Phụ trách nội dung, sản phẩm và marketing
+Xây dựng lộ trình du lịch; biên tập nội dung và chuẩn hóa thông tin, hình ảnh sản phẩm; lập kế hoạch truyền thông, quản lý các kênh mạng xã hội và theo dõi hiệu quả marketing.
+
+
+Các thành viên phối hợp trong những công việc liên quan đến nhiều bộ phận, đặc biệt là kiểm thử website, xử lý đơn hàng và triển khai chiến dịch marketing.
+Lộ trình gồm 4 giai đoạn dưới đây cụ thể hóa định hướng phát triển tại Phần III.7. Trong đó, hai giai đoạn đầu tập trung xây dựng và kiểm chứng mô hình tại Đà Nẵng – Hội An; các giai đoạn sau chỉ triển khai khi dự án đạt được những điều kiện cần thiết về nguồn cung, doanh thu và năng lực vận hành.
+1. Giai đoạn 1 (tháng 1–3/2027): Khởi động và xây dựng MVP
+1.1. Chiến lược chủ đạo
+Xây dựng sản phẩm khả dụng tối thiểu (Minimum Viable Product – MVP), tập trung vào chức năng giới thiệu lộ trình, đăng tải trang phục, tiếp nhận yêu cầu đặt thuê và hỗ trợ xác nhận đơn hàng. Trong giai đoạn này, DealZ chưa triển khai đồng loạt các chức năng phức tạp như giỏ hàng gộp tự động, giao nhận tận nơi hay gợi ý bằng AI.
+1.2. Mục tiêu trọng tâm
+Hoàn thiện website với các chức năng cơ bản: giới thiệu điểm đến, hiển thị lộ trình, thông tin sản phẩm và tiếp nhận yêu cầu đặt thuê.
+Thiết lập quy trình xác nhận đơn, thanh toán, đặt cọc, hủy và hoàn tiền.
+Tiếp cận và ký hợp tác với khoảng 8 đối tác đầu tiên, ưu tiên các shop trang phục đã khảo sát.
+Xây dựng 3 lộ trình du lịch mẫu tại Hội An, Sơn Trà và Bà Nà Hills.
+Kiểm thử quy trình đặt thuê và xử lý đơn hàng trước khi mở rộng cho khách hàng bên ngoài.
+1.3. Kế hoạch hành động chi tiết
+Thời gian
+Hành động
+Tháng 1/2027
+Cài đặt nền tảng website, cấu hình các chức năng cơ bản; xây dựng quy trình đặt thuê, đặt cọc và hủy đơn; làm việc với các shop đã khảo sát để thống nhất điều kiện hợp tác.
+Tháng 2/2027
+Đăng tải sản phẩm, chụp ảnh thực tế, hoàn thiện thông tin giá thuê và lịch trống; xây dựng 3 lộ trình mẫu; kiểm thử quy trình đặt thuê và thanh toán.
+Tháng 3/2027
+Ra mắt phiên bản thử nghiệm cho nhóm khách hàng quen và sinh viên; tiếp nhận các đơn hàng đầu tiên, thực hiện đối soát thủ công và thu thập phản hồi.
+
+1.4. Chỉ số đánh giá (KPIs)
+Số đối tác ký hợp tác: khoảng 8 đối tác.
+Số lộ trình được đăng tải: tối thiểu 3 lộ trình.
+Số đơn hàng phát sinh và hoàn tất: mục tiêu khoảng 60 đơn trong 3 tháng.
+Tỷ lệ đơn hàng được xử lý đúng quy trình: theo dõi và hướng tới 100%.
+Không để xảy ra lỗi nghiêm trọng chưa được xử lý liên quan đến thanh toán và xác nhận đơn trước khi đưa hệ thống vào vận hành chính thức.
+Các chỉ tiêu trên là mục tiêu giả định. Số đơn hàng trong giai đoạn này cần được phân biệt giữa đơn kiểm thử nội bộ và đơn giao dịch thực tế; chỉ đơn hàng thực tế mới được tính vào doanh thu.
+2. Giai đoạn 2 (tháng 4–9/2027): Thử nghiệm thị trường (Market Pilot) tại Đà Nẵng – Hội An
+2.1. Chiến lược chủ đạo
+Đưa nền tảng vào hoạt động thực tế, tiếp cận khách du lịch và kiểm chứng khả năng chuyển đổi từ nội dung lộ trình miễn phí sang đơn hàng dịch vụ. Đây là giai đoạn quan trọng để đánh giá nhu cầu thực tế, mức độ phù hợp của sản phẩm và hiệu quả hợp tác với đối tác.
+2.2. Mục tiêu trọng tâm
+Mở rộng mạng lưới lên khoảng 20 đối tác cung cấp trang phục và dịch vụ bổ trợ.
+Hoàn thiện khả năng giới thiệu và tiếp nhận yêu cầu đặt các dịch vụ lưu trú, chụp ảnh và thuê xe máy.
+Hướng tới khoảng 250 đơn hàng thành công mỗi tháng vào tháng 9/2027.
+Đạt khoảng 10.000 lượt truy cập website mỗi tháng vào tháng 9/2027.
+Thu thập dữ liệu thực tế về hành vi khách hàng, tỷ lệ chuyển đổi và nhu cầu sử dụng dịch vụ bán kèm.
+2.3. Kế hoạch hành động chi tiết
+Thời gian
+Hành động
+Tháng 4–5/2027
+Tiếp tục tuyển đối tác, hoàn thiện nội dung website, triển khai TikTok và SEO; áp dụng ưu đãi ra mắt để thu hút khách hàng đầu tiên.
+Tháng 6–7/2027
+Tập trung chiến dịch mùa du lịch hè; hợp tác với KOC phù hợp; triển khai mã QR tại khách sạn, homestay và studio.
+Tháng 8–9/2027
+Khảo sát khách hàng đã sử dụng dịch vụ; đánh giá hiệu quả combo; cải thiện quy trình đặt nhiều dịch vụ và từng bước bán tự động hóa hoạt động đối soát.
+
+2.4. Chỉ số đánh giá (KPIs)
+Số lượng đối tác: khoảng 20.
+Lượt truy cập website: hướng tới 10.000 lượt/tháng vào tháng 9/2027.
+Tỷ lệ chuyển đổi từ lượt truy cập thành đơn hàng thành công: hướng tới 2,5%.
+Số đơn hàng: hướng tới 250 đơn/tháng vào tháng 9/2027.
+Tỷ lệ đơn hàng sử dụng từ hai dịch vụ trở lên: bắt đầu theo dõi và xác định mục tiêu sau khi có dữ liệu thực tế.
+Tỷ lệ đơn hàng phát sinh tranh chấp: hướng tới dưới 3%.
+Các chỉ tiêu về lượt truy cập, tỷ lệ chuyển đổi và số đơn hàng có mối liên hệ với nhau. Với 10.000 lượt truy cập và tỷ lệ chuyển đổi 2,5%, số đơn hàng mục tiêu tương ứng là khoảng 250 đơn/tháng.
+3. Giai đoạn 3 (tháng 10/2027–tháng 6/2028): Mở rộng quy mô và tiếp cận khách quốc tế
+3.1. Chiến lược chủ đạo
+Sau khi kiểm chứng mô hình tại Đà Nẵng – Hội An, DealZ xem xét mở rộng sang các điểm đến mới và từng bước tiếp cận khách quốc tế. Việc mở rộng được thực hiện có chọn lọc, dựa trên khả năng tuyển đối tác, xây dựng nội dung địa phương và đảm bảo chất lượng dịch vụ.
+3.2. Mục tiêu trọng tâm
+Nghiên cứu và thử nghiệm mở rộng sang 1–2 điểm đến mới, ưu tiên những địa phương có nhu cầu du lịch và nguồn cung dịch vụ phù hợp như Huế, Nha Trang hoặc Đà Lạt.
+Hoàn thiện phiên bản tiếng Anh và nghiên cứu tích hợp thanh toán thẻ quốc tế.
+Mở rộng khảo sát khách quốc tế để hiểu rõ hơn về nhu cầu, hành vi đặt dịch vụ và rào cản giao dịch.
+Thử nghiệm các gói hiển thị ưu tiên và nội dung tài trợ dành cho đối tác.
+Nghiên cứu ứng dụng AI để hỗ trợ gợi ý lộ trình và phối đồ.
+3.3. Kế hoạch hành động
+Nhóm tiến hành khảo sát bổ sung khách quốc tế, mở rộng mẫu khảo sát tiếng Anh so với 21 mẫu ban đầu. Đồng thời, nhóm đánh giá khả năng cung ứng tại các điểm đến mới, tuyển đối tác địa phương và xây dựng lộ trình phù hợp.
+Đối với thanh toán quốc tế, DealZ làm việc với đơn vị cung cấp dịch vụ thanh toán để tìm hiểu điều kiện tích hợp thẻ và quy trình giao dịch phù hợp. Chỉ triển khai khi đã xác định được phương thức thanh toán, đối soát và trách nhiệm của các bên.
+Tính năng AI gợi ý phối đồ được thử nghiệm ở phạm vi nhỏ nếu dữ liệu sản phẩm đáp ứng yêu cầu. Việc mở rộng điểm đến chỉ được thực hiện khi thị trường thí điểm duy trì được chất lượng dịch vụ và hiệu quả vận hành.
+4. Giai đoạn 4 (tháng 7/2028–tháng 12/2029): Tăng trưởng và mở rộng toàn quốc
+4.1. Chiến lược chủ đạo
+Phát triển DealZ từ nền tảng thí điểm tại Đà Nẵng – Hội An thành mạng lưới kết nối dịch vụ du lịch tại nhiều địa phương. Nhóm xem xét huy động vốn khi mô hình đã chứng minh được khả năng tạo doanh thu, duy trì đối tác và mở rộng hoạt động.
+4.2. Mục tiêu trọng tâm
+Mở rộng mạng lưới đến các điểm du lịch lớn như Hà Nội, Thành phố Hồ Chí Minh, Phú Quốc và Sa Pa.
+Phát triển quan hệ hợp tác với khách sạn, nhiếp ảnh gia, cửa hàng cho thuê trang phục và đơn vị giao nhận.
+Hoàn thiện các combo trải nghiệm kết hợp nhiều dịch vụ.
+Nghiên cứu mô hình đại diện địa phương để hỗ trợ tuyển đối tác, kiểm duyệt dịch vụ và biên tập nội dung.
+Chuẩn bị phương án huy động vốn dựa trên kết quả kinh doanh và dữ liệu vận hành thực tế.
+4.3. Kế hoạch hành động
+Nhóm tiếp tục hoàn thiện bản đồ tương tác và nghiên cứu tính năng tìm kiếm trang phục bằng hình ảnh khi dữ liệu sản phẩm đủ lớn. Đồng thời, chuẩn hóa quy trình vận hành tại các địa phương, xây dựng đội ngũ phụ trách nội dung và đối tác, chuẩn bị tài liệu gọi vốn dựa trên số lượng đơn hàng, doanh thu, tỷ lệ chuyển đổi và tỷ lệ khách hàng quay lại.
+Việc mở rộng toàn quốc và huy động vốn chỉ được triển khai khi các chỉ tiêu kinh doanh đạt yêu cầu và mô hình có khả năng nhân rộng.
+5. Tóm tắt tiến độ theo dòng thời gian (Timeline Summary)
+Giai đoạn
+Thời gian
+Kết quả chính
+1. Khởi động và MVP
+1–3/2027
+Website phiên bản đầu, khoảng 8 đối tác, 3 lộ trình mẫu và quy trình đặt thuê cơ bản.
+2. Pilot Đà Nẵng – Hội An
+4–9/2027
+Khoảng 20 đối tác, hướng tới 250 đơn/tháng và có dữ liệu đánh giá tỷ lệ chuyển đổi.
+3. Mở rộng và tiếp cận khách quốc tế
+10/2027–6/2028
+Thử nghiệm 1–2 điểm đến mới, hoàn thiện tiếng Anh và nghiên cứu thanh toán quốc tế.
+4. Tăng trưởng và huy động vốn
+7/2028–12/2029
+Mở rộng mạng lưới nhiều địa phương, nâng cấp công nghệ và xem xét gọi vốn.
+
+
+XII. KẾ HOẠCH TÀI CHÍNH
+1. Cơ sở xây dựng kế hoạch tài chính và các giả định
+Kế hoạch tài chính của DealZ được xây dựng theo định hướng khởi nghiệp tinh gọn, tận dụng nguồn lực sẵn có của bốn thành viên nhằm hạn chế tối đa chi phí trong giai đoạn đầu. Nhóm ưu tiên sử dụng các công cụ miễn phí, tự sản xuất nội dung, tự triển khai hoạt động truyền thông và trực tiếp quản lý vận hành.
+Do dự án chưa đi vào hoạt động chính thức, các số liệu về doanh thu và số lượng đơn hàng dưới đây là giả định phục vụ việc lập kế hoạch, chưa phải kết quả kinh doanh thực tế.
+Các giả định chính:
+Giả định
+Giá trị
+Vốn khởi đầu
+150.000 đồng
+Doanh thu hoa hồng trung bình mỗi đơn
+Tạm tính 70.000 đồng/đơn
+Số đơn hàng dự kiến
+Tháng 1–3/2027: 10, 20, 30 đơn; tháng 4–9/2027: 50, 80, 120, 160, 200, 250 đơn; tháng 10–12/2027: 300, 350, 400 đơn
+Chi phí sản xuất nội dung
+0 đồng trong giai đoạn đầu do thành viên tự thực hiện
+Chi phí marketing
+0 đồng trong giai đoạn đầu do tận dụng mạng xã hội và các kênh truyền thông miễn phí
+Chi phí công nghệ
+Ưu tiên công cụ, nền tảng và plugin miễn phí; chi phí phát sinh thực tế cần được xác nhận trước khi triển khai
+Phí thanh toán
+Tạm tính 10.000 đồng/đơn để dự phòng; cần xác minh theo phương thức thanh toán thực tế
+Nhân sự
+Chưa tính lương cho bốn thành viên; các thành viên trực tiếp tham gia vận hành dự án
+
+Doanh thu hoa hồng trung bình 70.000 đồng/đơn được xây dựng theo cơ cấu đơn hàng giả định:
+Đơn chỉ thuê trang phục: 60% × 25.000 đồng.
+Đơn trang phục kết hợp chụp ảnh: 25% × 115.000 đồng.
+Đơn combo đầy đủ: 15% × 180.000 đồng.
+Mức doanh thu bình quân này cần được kiểm chứng thông qua tỷ lệ hoa hồng thực tế và cơ cấu dịch vụ khách hàng lựa chọn trong giai đoạn thí điểm.
+2. Vốn khởi đầu và phương án sử dụng vốn
+Trong giai đoạn đầu, DealZ dự kiến bắt đầu với số vốn 150.000 đồng. Đây là nguồn vốn nhỏ do các thành viên tự chuẩn bị, phù hợp với định hướng thử nghiệm mô hình kinh doanh tinh gọn trước khi đầu tư mở rộng.
+Nhóm hạn chế phát sinh chi phí bằng cách tự thực hiện các công việc và tận dụng những nguồn lực sẵn có.
+Khoản mục
+Phương án thực hiện
+Chi phí dự kiến ban đầu
+Xây dựng nội dung và lộ trình du lịch
+Thành viên tự nghiên cứu, biên tập và thiết kế
+0 đồng
+Hình ảnh và thông tin sản phẩm
+Phối hợp với đối tác, tận dụng tư liệu được phép sử dụng
+0 đồng
+Marketing và truyền thông
+Tự đăng bài trên Facebook, TikTok và các nền tảng mạng xã hội
+0 đồng
+Công nghệ và website
+Ưu tiên công cụ miễn phí, nền tảng có sẵn và plugin miễn phí
+Chưa phát sinh theo phương án thử nghiệm
+Chi phí hành chính và kế toán
+Chưa phát sinh trong giai đoạn chuẩn bị; sẽ xác định khi triển khai hoạt động chính thức
+Chưa xác định
+Vốn khởi đầu
+Nguồn vốn nhóm tự chuẩn bị
+150.000 đồng
+
+Với nguồn vốn hiện có, nhóm ưu tiên triển khai phiên bản thử nghiệm ở quy mô nhỏ, tập trung xây dựng nội dung, giới thiệu dịch vụ và tiếp nhận nhu cầu khách hàng thông qua các kênh miễn phí. Nhóm chưa đặt mục tiêu đầu tư ngay vào website có nhiều tính năng hoặc các công cụ trả phí.
+Khoản vốn 150.000 đồng được xem là nguồn tiền ban đầu để xử lý những nhu cầu thiết yếu trong quá trình thử nghiệm, không đồng nghĩa với tổng chi phí cần thiết để vận hành DealZ lâu dài. Các khoản chi phí pháp lý, công nghệ, thanh toán và vận hành phát sinh khi dự án chính thức hoạt động sẽ được xác định và bổ sung vào kế hoạch vốn.
+3. Dự phóng kết quả kinh doanh năm 2027
+Dự phóng kết quả kinh doanh được chia thành ba giai đoạn tương ứng với lộ trình triển khai dự án. Doanh thu được tính theo số đơn hàng nhân với mức hoa hồng trung bình giả định 70.000 đồng/đơn.
+Trong bảng dự phóng, nhóm tạm thời không tính chi phí sản xuất nội dung và marketing do các thành viên tự thực hiện. Chi phí thanh toán vẫn được dự phòng ở mức 10.000 đồng/đơn để tránh đánh giá quá cao hiệu quả tài chính. Chi phí công nghệ, pháp lý và nhân sự chưa được đưa vào bảng vì chưa có mức chi phí xác nhận.
+3.1. Giai đoạn 1: Khởi động và MVP (tháng 1–3/2027)
+Khoản mục
+Giá trị
+Số đơn hàng
+60 đơn
+Doanh thu hoa hồng (60 × 70.000 đồng)
+4.200.000 đồng
+Chi phí sản xuất nội dung
+0 đồng
+Chi phí marketing
+0 đồng
+Phí thanh toán (60 × 10.000 đồng)
+600.000 đồng
+Tổng chi phí được tính
+600.000 đồng
+Kết quả vận hành tạm tính
+3.600.000 đồng
+
+Trong giai đoạn đầu, nhóm tập trung hoàn thiện phiên bản thử nghiệm, xây dựng các lộ trình du lịch và tiếp cận những khách hàng đầu tiên. Việc tự sản xuất nội dung và sử dụng các kênh truyền thông miễn phí giúp hạn chế áp lực tài chính.
+3.2. Giai đoạn 2: Thử nghiệm thị trường (tháng 4–9/2027)
+Khoản mục
+Giá trị
+Số đơn hàng
+860 đơn
+Doanh thu hoa hồng (860 × 70.000 đồng)
+60.200.000 đồng
+Chi phí sản xuất nội dung
+0 đồng
+Chi phí marketing
+0 đồng
+Phí thanh toán (860 × 10.000 đồng)
+8.600.000 đồng
+Tổng chi phí được tính
+8.600.000 đồng
+Kết quả vận hành tạm tính
+51.600.000 đồng
+
+Trong giai đoạn này, DealZ tập trung kiểm chứng nhu cầu thị trường, mở rộng mạng lưới đối tác và cải thiện quy trình tiếp nhận, xử lý đơn hàng. Nhóm tiếp tục tận dụng nguồn lực nội bộ và các kênh truyền thông miễn phí để duy trì hoạt động.
+3.3. Giai đoạn 3: Tăng trưởng (tháng 10–12/2027)
+Khoản mục
+Giá trị
+Số đơn hàng
+1.050 đơn
+Doanh thu hoa hồng (1.050 × 70.000 đồng)
+73.500.000 đồng
+Chi phí sản xuất nội dung
+0 đồng
+Chi phí marketing
+0 đồng
+Phí thanh toán (1.050 × 10.000 đồng)
+10.500.000 đồng
+Tổng chi phí được tính
+10.500.000 đồng
+Kết quả vận hành tạm tính
+63.000.000 đồng
+
+Nếu đạt được sản lượng đơn hàng theo kế hoạch, DealZ có thể tạo ra nguồn doanh thu đáng kể mà không cần tăng tương ứng chi phí sản xuất nội dung và marketing. Tuy nhiên, nhóm cần theo dõi khả năng đáp ứng đơn hàng của đối tác và chất lượng dịch vụ khi quy mô giao dịch tăng lên.
+4. Tổng hợp và đánh giá hiệu quả tài chính
+4.1. Tổng hợp kết quả kinh doanh
+Chỉ tiêu
+Giá trị
+Tổng số đơn hàng năm 2027
+1.970 đơn
+Tổng doanh thu hoa hồng
+137.900.000 đồng
+Chi phí thanh toán dự kiến
+19.700.000 đồng
+Chi phí nội dung và marketing
+0 đồng
+Tổng chi phí được tính trong mô hình
+19.700.000 đồng
+Kết quả vận hành tạm tính
+118.200.000 đồng
+
+Theo mô hình giả định, DealZ có thể tạo ra kết quả vận hành dương trong năm đầu tiên nhờ tận dụng nguồn lực nội bộ và hạn chế chi phí cố định.
+Tuy nhiên, mức 118.200.000 đồng chưa phải lợi nhuận ròng. Kết quả này chưa tính các khoản chi phí công nghệ, pháp lý, thuế, nhân sự, hoàn tiền, bồi hoàn, chăm sóc khách hàng và các chi phí phát sinh khác. Vì vậy, đây chỉ là kết quả tính toán trên những khoản mục đã đưa vào mô hình, không phải cam kết về lợi nhuận thực tế.
+4.2. Đánh giá điểm hòa vốn
+Do DealZ lựa chọn phương án tự thực hiện nội dung và marketing, mô hình thử nghiệm hiện chưa xác định chi phí cố định hàng tháng.
+Với doanh thu hoa hồng trung bình 70.000 đồng/đơn và phí thanh toán dự phòng 10.000 đồng/đơn, phần doanh thu còn lại sau phí thanh toán là:
+70.000 - 10.000 = 60.000 đồng/đơn.
+Trong trường hợp chưa phát sinh chi phí cố định, mỗi đơn hàng thành công tạo ra khoảng 60.000 đồng để bù đắp vốn ban đầu và các khoản chi phí khác chưa được tính.
+Nếu chỉ xét khả năng bù đắp khoản vốn khởi đầu 150.000 đồng:
+150.000 ÷ 60.000 = 2,5 đơn.
+Như vậy, DealZ cần khoảng 3 đơn hàng thành công để tạo ra khoản đóng góp tương đương vốn khởi đầu 150.000 đồng, theo các giả định hiện tại.
+Đây không phải điểm hòa vốn đầy đủ của doanh nghiệp vì chưa tính những chi phí có thể phát sinh khi vận hành chính thức.
+4.3. Đánh giá khả năng thu hồi vốn
+Với mục tiêu 400 đơn hàng/tháng, doanh thu hoa hồng dự kiến đạt 28.000.000 đồng. Sau khi trừ khoản phí thanh toán dự phòng 4.000.000 đồng, phần còn lại là 24.000.000 đồng.
+Trong điều kiện không phát sinh thêm chi phí cố định và các thành viên tiếp tục tự đảm nhiệm công việc, kết quả vận hành tạm tính có thể đạt 24.000.000 đồng/tháng.
+Tuy nhiên, khả năng thu hồi vốn phụ thuộc vào số lượng đơn hàng thực tế, mức hoa hồng được đối tác chấp thuận và các khoản chi phí phát sinh. Nhóm không xem đây là mức lợi nhuận chắc chắn mà chỉ sử dụng như một kịch bản để đánh giá tiềm năng của mô hình.
+4.4. Các yếu tố ảnh hưởng đến hiệu quả tài chính
+Số lượng đơn hàng: Quy mô giao dịch quyết định trực tiếp doanh thu hoa hồng và khả năng tạo nguồn tiền cho hoạt động.
+Mức hoa hồng thực tế: Tỷ lệ hoa hồng cần được thống nhất với đối tác trước khi triển khai để xác định chính xác doanh thu của DealZ.
+Chi phí thanh toán: Cần kiểm tra biểu phí của đơn vị cung cấp dịch vụ thanh toán và phương thức thu tiền được lựa chọn.
+Khả năng duy trì hoạt động miễn phí: Việc sử dụng công cụ miễn phí giúp tiết kiệm vốn nhưng có thể phát sinh giới hạn về tính năng, dung lượng hoặc khả năng mở rộng.
+Tỷ lệ hủy đơn và tranh chấp: Các trường hợp hoàn tiền, bồi hoàn hoặc đơn hàng không hoàn tất có thể ảnh hưởng đến doanh thu thực nhận.
+Chi phí nhân sự và vận hành: Khi số lượng đơn hàng tăng, nhóm có thể cần bổ sung nguồn lực chăm sóc khách hàng, quản lý đối tác và xử lý giao dịch.
+5. Kết luận tài chính
+DealZ lựa chọn phương án khởi nghiệp tinh gọn với số vốn khởi đầu 150.000 đồng, tận dụng nguồn lực của bốn thành viên và ưu tiên các công cụ miễn phí. Nhóm tự xây dựng nội dung, thực hiện hoạt động marketing và trực tiếp quản lý quá trình thử nghiệm nhằm giảm áp lực vốn trong giai đoạn đầu.
+Theo các giả định doanh thu và sản lượng đơn hàng đã xây dựng, dự án có tiềm năng tạo ra kết quả vận hành dương nếu duy trì được lượng giao dịch và mức hoa hồng dự kiến. Tuy nhiên, kết quả tài chính hiện tại chưa bao gồm đầy đủ các khoản chi phí cần thiết để vận hành một doanh nghiệp chính thức.
+Do đó, trong giai đoạn thí điểm, nhóm ưu tiên kiểm chứng nhu cầu khách hàng, khả năng hợp tác với đối tác, tỷ lệ chuyển đổi và mức hoa hồng thực tế. Sau khi có dữ liệu giao dịch, DealZ sẽ cập nhật lại kế hoạch tài chính, xác định nhu cầu vốn bổ sung và cân nhắc đầu tư vào website, công nghệ cũng như hoạt động marketing trả phí khi cần thiết..
+XIII. RỦI RO VÀ THÁCH THỨC
+Trong quá trình triển khai, DealZ có thể đối mặt với những rủi ro liên quan đến pháp lý, chất lượng dịch vụ, đối tác, công nghệ và tài chính. Việc nhận diện sớm các rủi ro giúp nhóm chủ động xây dựng phương án kiểm soát và hạn chế ảnh hưởng đến hoạt động của nền tảng.
+Rủi ro
+Mô tả
+Biện pháp giảm thiểu
+1. Pháp lý và thủ tục kinh doanh
+DealZ hoạt động theo mô hình nền tảng kết nối khách hàng với nhiều người bán và đơn vị cung cấp dịch vụ. Các hoạt động liên quan đến thông tin giao dịch, đặt cọc, thanh toán, hoa hồng và trách nhiệm của nền tảng cần được xác định rõ.
+Hoàn thiện tư cách kinh doanh trước khi triển khai giao dịch chính thức; rà soát nghĩa vụ thông báo hoặc đăng ký website theo quy định áp dụng; ký thỏa thuận hợp tác với đối tác; công khai điều kiện giao dịch, chính sách bảo vệ dữ liệu và quy trình giải quyết khiếu nại.
+2. Logistics và phục vụ khách quốc tế
+Giao nhận trang phục tại khách sạn có thể phát sinh sai sót; thanh toán quốc tế phụ thuộc vào khả năng tích hợp của đơn vị cung cấp dịch vụ thanh toán. Dữ liệu khảo sát khách quốc tế hiện còn hạn chế.
+Trong giai đoạn đầu, ưu tiên khách nhận và trả đồ tại shop; chỉ mở rộng giao nhận khi có quy trình kiểm soát; khảo sát bổ sung khách quốc tế và chỉ triển khai thanh toán thẻ khi đáp ứng điều kiện kỹ thuật, pháp lý.
+3. Chất lượng sản phẩm và an toàn dịch vụ
+Trang phục có thể không đúng mô tả, không sạch hoặc sai kích cỡ; xe máy có thể gặp sự cố; dịch vụ lưu trú và chụp ảnh có thể không đáp ứng kỳ vọng.
+Kiểm tra hình ảnh và thông tin trước khi đăng; yêu cầu đối tác cập nhật tình trạng sản phẩm; xây dựng tiêu chí đánh giá; tiếp nhận phản hồi và tạm ngừng hiển thị đối tác vi phạm nhiều lần.
+4. Năng lực cung ứng của đối tác
+Shop có thể hết size hoặc kín lịch vào mùa cao điểm; nhiếp ảnh gia và đơn vị dịch vụ có thể hủy lịch sát ngày.
+Phát triển nhiều đối tác cho cùng một nhóm dịch vụ; yêu cầu cập nhật lịch trống; thống nhất điều kiện hủy và trách nhiệm khi đối tác không thực hiện đơn.
+5. Trách nhiệm bồi hoàn và tranh chấp
+Có thể phát sinh tranh chấp về hư hỏng, mất trang phục, tiền đặt cọc, hủy đơn hoặc chất lượng dịch vụ.
+Công khai quy định đặt cọc, hủy và bồi hoàn; chụp ảnh tình trạng sản phẩm khi giao và nhận; lưu thông tin xác nhận; xây dựng quy trình tiếp nhận và xử lý khiếu nại; sử dụng quỹ dự phòng theo nguyên tắc được nhóm thống nhất.
+6. Công nghệ và trải nghiệm người dùng
+Plugin có thể phát sinh lỗi lịch thuê trùng, website tải chậm, thanh toán không thành công hoặc đối soát thủ công sai lệch.
+Kiểm thử trước khi vận hành; sao lưu dữ liệu định kỳ; theo dõi lỗi website; giới hạn tính năng trong giai đoạn MVP và chỉ tự động hóa khi quy trình đã ổn định.
+7. Rủi ro tài chính
+Doanh thu hoa hồng trên mỗi đơn có thể thấp hơn dự kiến; chi phí nội dung và marketing tăng; số đơn thực tế không đạt mục tiêu.
+Theo dõi doanh thu và chi phí theo tháng; kiểm soát ngân sách; đo tỷ lệ chuyển đổi; ưu tiên kênh marketing hiệu quả; chỉ mở rộng khi đạt các chỉ tiêu vận hành cần thiết.
+8. Cạnh tranh
+Các nền tảng OTA, sàn thương mại điện tử và shop địa phương có thể mở rộng dịch vụ hoặc tự tiếp cận khách hàng qua mạng xã hội.
+Tập trung vào nội dung lộ trình địa phương, kết hợp trang phục với trải nghiệm chụp ảnh, xây dựng quan hệ với đối tác nhỏ và tạo niềm tin thông qua chính sách giao dịch minh bạch.
+
+Đặc biệt, về pháp lý, Luật Thương mại điện tử số 122/2025/QH15 đã có hiệu lực từ ngày 01/07/2026. Vì vậy, trước khi vận hành chính thức, nhóm cần rà soát mô hình hoạt động của DealZ để xác định đúng trách nhiệm của chủ quản nền tảng thương mại điện tử trung gian, nghĩa vụ công khai thông tin, quản lý người bán và xử lý giao dịch. Nhóm cũng cần đối chiếu các quy định hướng dẫn thi hành có liên quan và tham khảo ý kiến chuyên môn khi cần thiết.
+XIV. KẾT LUẬN
+DealZ được xây dựng với định hướng phát triển từ một nền tảng cho thuê trang phục thành hệ sinh thái kết nối lộ trình du lịch với các sản phẩm và dịch vụ trải nghiệm tại điểm đến. Thay vì chỉ tập trung vào hoạt động cho thuê trang phục, dự án sử dụng các lộ trình và cẩm nang du lịch miễn phí để thu hút khách hàng, đồng thời tạo doanh thu thông qua hoa hồng từ các dịch vụ như trang phục, chụp ảnh, lưu trú và phương tiện di chuyển.
+Việc lựa chọn Đà Nẵng – Hội An làm thị trường thí điểm giúp nhóm tập trung nguồn lực vào một khu vực có nhiều điểm tham quan và nhu cầu trải nghiệm du lịch đa dạng. Mô hình marketplace nhẹ tài sản cũng cho phép DealZ kết nối các cửa hàng và đơn vị dịch vụ sẵn có mà không cần trực tiếp đầu tư vào kho trang phục, phương tiện hay cơ sở lưu trú.
+Về phương án triển khai, nhóm lựa chọn WordPress, WooCommerce và Dokan để xây dựng phiên bản MVP với chi phí phù hợp. Các tính năng nâng cao như AI gợi ý lộ trình, bản đồ tương tác và tìm kiếm trang phục bằng hình ảnh được định hướng phát triển ở những giai đoạn sau, khi nền tảng đã có đủ dữ liệu và nguồn lực.
+Theo kế hoạch tài chính giả định, DealZ cần chuẩn bị khoảng 44 triệu đồng vốn ban đầu, trong đó 10 triệu đồng được dành làm quỹ dự phòng. Với doanh thu hoa hồng bình quân 70.000 đồng/đơn và cơ cấu chi phí dự kiến, điểm hòa vốn vận hành ước tính khoảng 204 đơn hàng mỗi tháng. Tuy nhiên, đây mới là kết quả mô phỏng và cần được kiểm chứng bằng dữ liệu giao dịch thực tế.
+Những thách thức quan trọng nhất của dự án hiện nay là khả năng chuyển đổi nhu cầu từ lộ trình miễn phí thành đơn hàng, mức độ sẵn sàng hợp tác của các đối tác, quy trình đặt cọc và hoàn tiền, cũng như năng lực vận hành của nhóm. Vì vậy, giai đoạn thí điểm tại Đà Nẵng – Hội An có vai trò quyết định trong việc đánh giá tính khả thi của mô hình trước khi mở rộng sang các địa phương khác.
+Với định hướng phát triển từng bước, tập trung vào trải nghiệm khách hàng và hợp tác với các đơn vị cung cấp dịch vụ địa phương, DealZ kỳ vọng trở thành nền tảng hỗ trợ du khách lên kế hoạch và lựa chọn trải nghiệm phù hợp, đồng thời tạo thêm kênh tiếp cận khách hàng cho các đối tác du lịch quy mô nhỏ.
+TÀI LIỆU THAM KHẢO
+Bộ Công Thương. (n.d.). Kế hoạch triển khai thi hành Luật Thương mại điện tử. https://moit.gov.vn/tin-tuc/ke-hoach-trien-khai-thi-hanh-luat-thuong-mai-dien-tu.html
+Chính phủ. (2026, 30 tháng 6). Nghị định số 248/2026/NĐ-CP quy định chi tiết một số điều của Luật Thương mại điện tử. https://vanban.chinhphu.vn/?docid=218747&orggroupid=2&pageid=27160
+Dân trí. (2026, 29 tháng 4). Bạn trẻ mất 4 tiếng lên đồ, 10 phút chụp 200 tấm ảnh với cờ hoa. https://dantri.com.vn/du-lich/ban-tre-mat-4-tieng-len-do-10-phut-chup-200-tam-anh-voi-co-hoa-20260427202516700.htm
+Mekong ASEAN. (2026, 6 tháng 1). Năm 2025 Việt Nam đón lượng khách quốc tế cao kỷ lục. https://mekongasean.vn/nam-2025-viet-nam-don-luong-khach-quoc-te-cao-ky-luc-50476.html
+Mộc Khải. (2026, 3 tháng 6). Đà Nẵng được người Việt tìm kiếm và du lịch nhiều nhất? Dân trí. https://dantri.com.vn/du-lich/da-nang-duoc-nguoi-viet-tim-kiem-va-du-lich-nhieu-nhat-20260603114558067.htm
+Quốc hội. (2025, 10 tháng 12). Luật Thương mại điện tử số 122/2025/QH15. https://chinhphu.vn/?classid=1&docid=216503&pageid=27160&typegroupid=3
+Sài Gòn Đầu Tư Tài Chính. (2026, 6 tháng 1). Top 10 thị trường khách quốc tế lớn nhất đến Việt Nam trong năm 2025. https://dttc.sggp.org.vn/top-10-thi-truong-khach-quoc-te-lon-nhat-den-viet-nam-trong-nam-2025-post130350.html
+Thị trường Tài chính Tiền tệ. (n.d.). Thương mại điện tử Việt Nam tăng tốc, từ sân chơi tăng trưởng thành trụ cột kinh tế số. https://thitruongtaichinhtiente.vn/thuong-mai-dien-tu-viet-nam-tang-toc-tu-san-choi-tang-truong-thanh-tru-cot-kinh-te-so-83130.html
+Tường Bách. (2026, 7 tháng 1). Năm 2025: Du lịch Việt Nam bứt phá kỷ lục. VnEconomy. https://vneconomy.vn/nam-2025-du-lich-viet-nam-but-pha-ky-luc.htm
+Tường Bách. (2026, 3 tháng 7). Các nền tảng OTA kỳ vọng lớn về du lịch Việt Nam. VnEconomy. https://vneconomy.vn/cac-nen-tang-ota-ky-vong-lon-ve-du-lich-viet-nam.htm
+VietnamFinance. (n.d.). Đà Nẵng đón 17,3 triệu lượt khách, thu về 60.000 tỷ đồng. https://vietnamfinance.vn/da-nang-don-173-trieu-luot-khach-thu-ve-60000-ty-dong-d137851.html
+
+
+
